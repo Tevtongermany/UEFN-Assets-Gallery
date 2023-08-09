@@ -1,0 +1,185 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C Name=Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616 Archetype=/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C'/CRD_SkydomeDevice/Device_Skydome_V2.Default__Device_Skydome_V2_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Default__Device_Skydome_V2_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Default__Device_Skydome_V2_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Default__Device_Skydome_V2_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:EnableWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EnableWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:DisableWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.DisableWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C Name="Creative_UseRestriction_Component" Archetype=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:Creative_UseRestriction_Component_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.Creative_UseRestriction_Component"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="TriggerParent" Archetype=/Script/Engine.SceneComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:TriggerParent_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.TriggerParent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="Box" Archetype=/Script/Engine.StaticMeshComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:Box_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.Box"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="Trigger" Archetype=/Script/Engine.BoxComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:Trigger_GEN_VARIABLE' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.Trigger"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="Frame" Archetype=/Script/Engine.StaticMeshComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:Frame_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.Frame"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.CreativeEditOnlyMeshComponent Name="EditOnly_Icon" Archetype=/Script/FortniteGame.CreativeEditOnlyMeshComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:EditOnly_Icon_GEN_VARIABLE' ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EditOnly_Icon"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.CreativeEditOnlyMeshComponent Name="EditOnly_Arrows" Archetype=/Script/FortniteGame.CreativeEditOnlyMeshComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:EditOnly_Arrows_GEN_VARIABLE' ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EditOnly_Arrows"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.CreativeEditOnlyMeshComponent Name="EditOnly_WireSphere" Archetype=/Script/FortniteGame.CreativeEditOnlyMeshComponent'/CRD_SkydomeDevice/Device_Skydome_V2.Device_Skydome_V2_C:EditOnly_WireSphere_GEN_VARIABLE' ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EditOnly_WireSphere"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.StaticMeshComponent0"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceDynamic'"/Engine/Transient.MaterialInstanceDynamic_37"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=NoCollision,CollisionProfileName="Custom")
+            OnComponentPhysicsStateChanged=(Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.OnPhysicsStateChanged)
+            RelativeLocation=(X=736.000000,Y=192.000000,Z=-96.000000)
+            bHiddenInGame=True
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="AmbientLight",PropertyData="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"),(PropertyName="AmbientLightIntensity_Option",PropertyData="20.000000"),(PropertyName="bUseVolume",PropertyData="False"),(PropertyName="Clouds",PropertyData="Off"),(PropertyName="CloudsColor",PropertyData="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"),(PropertyName="CloudsDirection_Option",PropertyData="0.000000"),(PropertyName="CloudsSpeed",PropertyData="1.000000"),(PropertyName="EnableDuringPhase",PropertyData="Always"),(PropertyName="HorizonFogColor",PropertyData="(R=0.015209,G=0.187821,B=0.296138,A=1.000000)"),(PropertyName="HorizonFogDensity",PropertyData="20.000000"),(PropertyName="LabelOverride",PropertyData="Skydome"),(PropertyName="LightSource",PropertyData="Sun"),(PropertyName="LightSourceCustomColor",PropertyData="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"),(PropertyName="LightSourceIntensity",PropertyData="100.000000"),(PropertyName="LightSourceUseCustomColor",PropertyData="True"),(PropertyName="PostProcess",PropertyData="Day"),(PropertyName="SkydomeBottomColor",PropertyData="(R=0.015209,G=0.187821,B=0.296138,A=1.000000)"),(PropertyName="SkydomeMiddleColor",PropertyData="(R=0.208637,G=0.376262,B=1.000000,A=1.000000)"),(PropertyName="SkydomeTopColor",PropertyData="(R=0.015209,G=0.187821,B=0.296138,A=1.000000)"),(PropertyName="SkyGradientColorsInfluenceAmbientLight",PropertyData="True"),(PropertyName="StarsVisibility",PropertyData="Off"),(PropertyName="VolumeDepth",PropertyData="1.000000"),(PropertyName="VolumeHeight",PropertyData="1.000000"),(PropertyName="VolumeWidth",PropertyData="1.000000")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            Visibility Components with Collision=(("StaticMeshComponent0", NoCollision),("Box", NoCollision),("Frame", NoCollision))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EnableWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.DisableWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Creative_UseRestriction_Component" ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.Creative_UseRestriction_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="TriggerParent" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.TriggerParent"'
+            AttachParent="StaticMeshComponent0"
+            RelativeScale3D=(X=2.133333,Y=2.133333,Z=1.600000)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Box" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.Box"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="TriggerParent"
+            bVisible=False
+            bHiddenInGame=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Trigger" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.Trigger"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="TriggerParent"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Frame" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.Frame"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="TriggerParent"
+            bVisible=False
+            bHiddenInGame=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EditOnly_Icon" ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EditOnly_Icon"'
+            EditOverrideMaterials(0)="/Game/Creative/Devices/SkyDome/Materials/MI_CP_Device_SkyDome_Placed_02.MI_CP_Device_SkyDome_Placed_02"
+            StaticMesh=/Script/Engine.StaticMesh'"/Game/Creative/Devices/Generic/Meshes/CP_Device_Generic_Icon_01.CP_Device_Generic_Icon_01"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceConstant'"/Game/Creative/Devices/SkyDome/Materials/MI_CP_Device_SkyDome_Placed_02.MI_CP_Device_SkyDome_Placed_02"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EditOnly_Arrows" ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EditOnly_Arrows"'
+            StaticMesh=/Script/Engine.StaticMesh'"/Game/Creative/Devices/Generic/Meshes/CP_Device_Generic_DirTripleArrow_01.CP_Device_Generic_DirTripleArrow_01"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EditOnly_WireSphere" ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.EditOnly_WireSphere"'
+            StaticMesh=/Script/Engine.StaticMesh'"/Game/Creative/Devices/Generic/Meshes/CP_Device_Generic_Gyro_01.CP_Device_Generic_Gyro_01"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         EditOnly_WireSphere="EditOnly_WireSphere"
+         EditOnly_Arrows="EditOnly_Arrows"
+         EditOnly_Icon="EditOnly_Icon"
+         TriggerParent="TriggerParent"
+         Frame="Frame"
+         Trigger="Trigger"
+         Box="Box"
+         Creative_UseRestriction_Component="Creative_UseRestriction_Component"
+         DisableWhenReceivingFrom="DisableWhenReceivingFrom"
+         EnableWhenReceivingFrom="EnableWhenReceivingFrom"
+         SkydomeMat=/Script/Engine.MaterialInstanceDynamic'"TODM_STW_Parent_C_0.SkyDomeMeshComp.MI_SkyDome_NoObject_0-A70A0A5DF76971FF_16"'
+         CachedTimeOfDayManager=/Game/TimeOfDay/TODM/STW/TODM_STW_Parent.TODM_STW_Parent_C'"TODM_STW_Parent_C_0"'
+         VolumeScaleModifier=(X=2.133333,Y=2.133333,Z=1.600000)
+         CloudsMaterialData=(ParameterValueFloat_22_F77B58A64CB83EA994960EBE6DCCB21F=(("Clouds Strength", 0.000000)))
+         Editor TODM Async Task=/Script/FortniteGame.FortAsyncAction_WaitForTimeOfDayManagerUpdated'"/Engine/Transient.FortAsyncAction_WaitForTimeOfDayManagerUpdated_25"'
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=B179BBEB4E3F7230142704A426396368
+         LabelOverride="Skydome"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Skydome"
+         OnDestroyed=(Device_Skydome_V2_C_UAID_94DE80055EB2D69D01_1811259616.On Actor Destroyed)
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map
