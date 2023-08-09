@@ -1,0 +1,163 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C Name=ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010 Archetype=/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.Default__ThrowingToySpawner_Device_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.Default__ThrowingToySpawner_Device_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.Default__ThrowingToySpawner_Device_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.Default__ThrowingToySpawner_Device_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="SpawnToyOnMessageReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:SpawnToyOnMessageReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.SpawnToyOnMessageReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableOnReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:EnableOnReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.EnableOnReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="Disable OnReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:Disable OnReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.Disable OnReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="SendMessageOnToySpawned" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:SendMessageOnToySpawned_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.SendMessageOnToySpawned"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C Name="Creative_UseRestriction_Component" Archetype=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:Creative_UseRestriction_Component_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.Creative_UseRestriction_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="RespawnToyOnMessageReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:RespawnToyOnMessageReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.RespawnToyOnMessageReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DestroyToyOnMessageReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:DestroyToyOnMessageReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.DestroyToyOnMessageReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="GrantToyToPlayerOnMessageReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:GrantToyToPlayerOnMessageReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.GrantToyToPlayerOnMessageReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="SendMessageOnToyPickedUp" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:SendMessageOnToyPickedUp_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.SendMessageOnToyPickedUp"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="SendMessageOnToyThrown" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:SendMessageOnToyThrown_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.SendMessageOnToyThrown"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="SendMessageOnToyLifespanEnd" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_ThrowingToy/SetupAssets/ThrowingToySpawner_Device.ThrowingToySpawner_Device_C:SendMessageOnToyLifespanEnd_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.SendMessageOnToyLifespanEnd"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.StaticMeshComponent0"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceDynamic'"/Engine/Transient.MaterialInstanceDynamic_37"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            OnComponentPhysicsStateChanged=(ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.OnPhysicsStateChanged)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="ArcFadeDistance",PropertyData="100000.000000"),(PropertyName="bHideMesh",PropertyData="False"),(PropertyName="bPowerChargeLoops",PropertyData="True"),(PropertyName="bRespawnAfterDeath",PropertyData="True"),(PropertyName="bShowPowerArc",PropertyData="True"),(PropertyName="bSpawnToyOnStart",PropertyData="True"),(PropertyName="ClassIndex",PropertyData="-1"),(PropertyName="DisplayBallImpact",PropertyData="2"),(PropertyName="EnabledIndex",PropertyData="0"),(PropertyName="ERespawnTime",PropertyData="0.000000"),(PropertyName="LabelOverride",PropertyData="Throwing Toy Spawner"),(PropertyName="PowerChangeStyle",PropertyData="PingPongSkilled"),(PropertyName="SpawnedToy",PropertyData="0"),(PropertyName="TeamSetting",PropertyData="996"),(PropertyName="ThrowPowerDuration",PropertyData="3.500000"),(PropertyName="ThrowPowerMax",PropertyData="1300.000000"),(PropertyName="ThrowPowerMin",PropertyData="700.000000"),(PropertyName="ToyLifespan",PropertyData="5.000000")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SpawnToyOnMessageReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.SpawnToyOnMessageReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableOnReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.EnableOnReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Disable OnReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.Disable OnReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SendMessageOnToySpawned" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.SendMessageOnToySpawned"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Creative_UseRestriction_Component" ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.Creative_UseRestriction_Component"'
+            EnabledComponent=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"TRASH_Creative_Enabled_Component_C_153"'
+            MinigameLogic=/Script/FortniteGame.FortMinigameProgressComponent'"TRASH_FortMinigameProgressComponent_152"'
+            Valid Class List=(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,255)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="RespawnToyOnMessageReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.RespawnToyOnMessageReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DestroyToyOnMessageReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.DestroyToyOnMessageReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="GrantToyToPlayerOnMessageReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.GrantToyToPlayerOnMessageReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SendMessageOnToyPickedUp" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.SendMessageOnToyPickedUp"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SendMessageOnToyThrown" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.SendMessageOnToyThrown"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SendMessageOnToyLifespanEnd" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.ThrowingToySpawner_Device_C_UAID_94DE80055EB2D89D01_1723845010.SendMessageOnToyLifespanEnd"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         SendMessageOnToyLifespanEnd="SendMessageOnToyLifespanEnd"
+         SendMessageOnToyThrown="SendMessageOnToyThrown"
+         SendMessageOnToyPickedUp="SendMessageOnToyPickedUp"
+         GrantToyToPlayerOnMessageReceived="GrantToyToPlayerOnMessageReceived"
+         DestroyToyOnMessageReceived="DestroyToyOnMessageReceived"
+         RespawnToyOnMessageReceived="RespawnToyOnMessageReceived"
+         Creative_UseRestriction_Component="Creative_UseRestriction_Component"
+         SendMessageOnToySpawned="SendMessageOnToySpawned"
+         Disable OnReceived="Disable OnReceived"
+         EnableOnReceived="EnableOnReceived"
+         SpawnToyOnMessageReceived="SpawnToyOnMessageReceived"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=78CD52D34DBDFFC7447BE38BA83FED86
+         PlaysetPackagePathName="/CRD_ThrowingToy/SetupAssets/ID/PID_CP_Devices_ThrowingToy"
+         LabelOverride="Throwing Toy Spawner"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Throwing Toy Spawner"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

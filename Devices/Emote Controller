@@ -1,0 +1,137 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C Name=Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800 Archetype=/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C'/CRD_EmoteController/Device_EmoteController_V2.Default__Device_EmoteController_V2_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_EmoteController/Device_EmoteController_V2.Default__Device_EmoteController_V2_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_EmoteController/Device_EmoteController_V2.Default__Device_EmoteController_V2_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_EmoteController/Device_EmoteController_V2.Default__Device_EmoteController_V2_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableReceiverComponent" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C:EnableReceiverComponent_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.EnableReceiverComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableReceiverComponent" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C:DisableReceiverComponent_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.DisableReceiverComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnablePlayerEffectReceiverComponent" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C:EnablePlayerEffectReceiverComponent_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.EnablePlayerEffectReceiverComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisablePlayerEffectReceiverComponent" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C:DisablePlayerEffectReceiverComponent_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.DisablePlayerEffectReceiverComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="GrantPlayerItemReceiverComponent" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C:GrantPlayerItemReceiverComponent_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.GrantPlayerItemReceiverComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/CaptureArea/PickupItemListComponent.PickupItemListComponent_C Name="PickupItemListComponent" Archetype=/Game/Creative/Devices/CaptureArea/PickupItemListComponent.PickupItemListComponent_C'/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C:PickupItemListComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/CaptureArea/PickupItemListComponent.PickupItemListComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.PickupItemListComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="GrantAllPlayersItemReceiverComponent" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C:GrantAllPlayersItemReceiverComponent_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.GrantAllPlayersItemReceiverComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.CreativeEditOnlyMeshComponent Name="EditOnly_DeviceMesh" Archetype=/Script/FortniteGame.CreativeEditOnlyMeshComponent'/CRD_EmoteController/Device_EmoteController_V2.Device_EmoteController_V2_C:EditOnly_DeviceMesh_GEN_VARIABLE' ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.EditOnly_DeviceMesh"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.StaticMeshComponent0"'
+            CachedMaxDrawDistance=21400.000000
+            OnComponentPhysicsStateChanged=(Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.OnPhysicsStateChanged)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="Add or Block Emote",PropertyData="False"),(PropertyName="bBlockDances",PropertyData="False"),(PropertyName="bBlockEmojis",PropertyData="False"),(PropertyName="bBlockSprays",PropertyData="False"),(PropertyName="bBlockToys",PropertyData="False"),(PropertyName="Category Name",PropertyData="NSLOCTEXT(\"\", \"77F5E2CF47FB3899ADE84789B3B0659C\", \"Island Emotes\")"),(PropertyName="EmoteID"),(PropertyName="Enabled On Phase",PropertyData="Gameplay Only"),(PropertyName="Exclusive Category",PropertyData="False"),(PropertyName="LabelOverride",PropertyData="Emote Controller"),(PropertyName="Player Effect",PropertyData="Bubbles")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableReceiverComponent" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.EnableReceiverComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableReceiverComponent" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.DisableReceiverComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnablePlayerEffectReceiverComponent" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.EnablePlayerEffectReceiverComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisablePlayerEffectReceiverComponent" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.DisablePlayerEffectReceiverComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="GrantPlayerItemReceiverComponent" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.GrantPlayerItemReceiverComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PickupItemListComponent" ExportPath=/Game/Creative/Devices/CaptureArea/PickupItemListComponent.PickupItemListComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.PickupItemListComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="GrantAllPlayersItemReceiverComponent" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.GrantAllPlayersItemReceiverComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EditOnly_DeviceMesh" ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_EmoteController_V2_C_UAID_94DE80055EB2D79D01_1863482800.EditOnly_DeviceMesh"'
+            StaticMesh=/Script/Engine.StaticMesh'"/Game/Creative/Devices/Generic/Meshes/CP_Device_Generic_Icon_01.CP_Device_Generic_Icon_01"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         EditOnly_DeviceMesh="EditOnly_DeviceMesh"
+         GrantAllPlayersItemReceiverComponent="GrantAllPlayersItemReceiverComponent"
+         PickupItemListComponent="PickupItemListComponent"
+         GrantPlayerItemReceiverComponent="GrantPlayerItemReceiverComponent"
+         DisablePlayerEffectReceiverComponent="DisablePlayerEffectReceiverComponent"
+         EnablePlayerEffectReceiverComponent="EnablePlayerEffectReceiverComponent"
+         DisableReceiverComponent="DisableReceiverComponent"
+         EnableReceiverComponent="EnableReceiverComponent"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=F11F26424F1975631B30419C9C9935D1
+         PlaysetPackagePathName="/CRD_EmoteController/SetupAssets/PID_Device_EmoteController"
+         LabelOverride="Emote Controller"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Emote Controller"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

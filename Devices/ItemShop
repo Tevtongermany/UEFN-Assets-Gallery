@@ -1,0 +1,96 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_Store/Device_Store.Device_Store_C Name=Device_Store_C_UAID_94DE80055EB2D89D01_1582137002 Archetype=/CRD_Store/Device_Store.Device_Store_C'/CRD_Store/Device_Store.Default__Device_Store_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_Store/Device_Store.Default__Device_Store_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_Store/Device_Store.Default__Device_Store_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_Store/Device_Store.Default__Device_Store_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_Store/Device_Store.Device_Store_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="OnReceivedEnable" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Store/Device_Store.Device_Store_C:OnReceivedEnable_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.OnReceivedEnable"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="OnReceivedDisable" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Store/Device_Store.Device_Store_C:OnReceivedDisable_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.OnReceivedDisable"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="OnReceivedOpenStore" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Store/Device_Store.Device_Store_C:OnReceivedOpenStore_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.OnReceivedOpenStore"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.StaticMeshComponent0"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceDynamic'"/Engine/Transient.MaterialInstanceDynamic_36"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            OnComponentPhysicsStateChanged=(Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.OnPhysicsStateChanged)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="EnabledIndex",PropertyData="2"),(PropertyName="InteractTime",PropertyData="0.000000"),(PropertyName="LabelOverride",PropertyData="Item Shop Portal")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.VisibleInGameComponent"'
+            VisibleDuringPhase=NewEnumerator1
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="OnReceivedEnable" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.OnReceivedEnable"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="OnReceivedDisable" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.OnReceivedDisable"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="OnReceivedOpenStore" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Store_C_UAID_94DE80055EB2D89D01_1582137002.OnReceivedOpenStore"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         OnReceivedOpenStore="OnReceivedOpenStore"
+         OnReceivedDisable="OnReceivedDisable"
+         OnReceivedEnable="OnReceivedEnable"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=02A396CB4FD01DA2F2A56AB91AC59DF0
+         PlaysetPackagePathName="/CRD_Store/SetupAssets/PID_CP_Devices_Store"
+         LabelOverride="Item Shop Portal"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Item Shop Portal"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

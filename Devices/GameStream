@@ -1,0 +1,304 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_GameStream/BP_Creative_GameStream.BP_Creative_GameStream_C Name=BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796 Archetype=/CRD_GameStream/BP_Creative_GameStream.BP_Creative_GameStream_C'/CRD_GameStream/BP_Creative_GameStream.Default__BP_Creative_GameStream_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_GameStream/BP_Creative_GameStream.Default__BP_Creative_GameStream_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_GameStream/BP_Creative_GameStream.Default__BP_Creative_GameStream_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_GameStream/BP_Creative_GameStream.Default__BP_Creative_GameStream_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_GameStream/BP_Creative_GameStream.BP_Creative_GameStream_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal_Parent.BP_Creative_MatchmakingPortal_Parent_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal.BP_Creative_MatchmakingPortal_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.SphereComponent Name="HUD Visibility Volume" Archetype=/Script/Engine.SphereComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal.BP_Creative_MatchmakingPortal_C:HUD Visibility Volume_GEN_VARIABLE' ExportPath=/Script/Engine.SphereComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.HUD Visibility Volume"'
+         End Object
+         Begin Object Class=/Script/Engine.PointLightComponent Name="Light" Archetype=/Script/Engine.PointLightComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal_Parent.BP_Creative_MatchmakingPortal_Parent_C:Light_GEN_VARIABLE' ExportPath=/Script/Engine.PointLightComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Light"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableWhenReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal_Parent.BP_Creative_MatchmakingPortal_Parent_C:EnableWhenReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.EnableWhenReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableWhenReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal_Parent.BP_Creative_MatchmakingPortal_Parent_C:DisableWhenReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.DisableWhenReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortPortalComponent Name="FortPortal" Archetype=/Script/FortniteGame.FortPortalComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal.BP_Creative_MatchmakingPortal_C:FortPortal_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortPortalComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.FortPortal"'
+         End Object
+         Begin Object Class=/Script/Engine.CapsuleComponent Name="Capsule" Archetype=/Script/Engine.CapsuleComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal.BP_Creative_MatchmakingPortal_C:Capsule_GEN_VARIABLE' ExportPath=/Script/Engine.CapsuleComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Capsule"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_HeaderDescriptionHUD_Component.Creative_HeaderDescriptionHUD_Component_C Name="HUD Widget Component" Archetype=/Game/Creative/Devices/Common/Components/Creative_HeaderDescriptionHUD_Component.Creative_HeaderDescriptionHUD_Component_C'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal.BP_Creative_MatchmakingPortal_C:HUD Widget Component_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_HeaderDescriptionHUD_Component.Creative_HeaderDescriptionHUD_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.HUD Widget Component"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="ThumbnailPlane" Archetype=/Script/Engine.StaticMeshComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal.BP_Creative_MatchmakingPortal_C:ThumbnailPlane_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.ThumbnailPlane"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="Portal Look at Point" Archetype=/Script/Engine.SceneComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal_Parent.BP_Creative_MatchmakingPortal_Parent_C:Portal Look at Point_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Portal Look at Point"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="Code Entry Screen" Archetype=/Script/Engine.StaticMeshComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal_Parent.BP_Creative_MatchmakingPortal_Parent_C:Code Entry Screen_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Code Entry Screen"'
+            Begin Object Class=/Script/Engine.MaterialInstanceDynamic Name="M_PortalDeviceScreen_0-97387AE84A289380" ExportPath=/Script/Engine.MaterialInstanceDynamic'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Code Entry Screen.M_PortalDeviceScreen_0-97387AE84A289380"'
+               Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="M_PortalDeviceScreen_0-97387AE84A289380EditorOnlyData" ExportPath=/Script/Engine.MaterialInstanceEditorOnlyData'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Code Entry Screen.M_PortalDeviceScreen_0-97387AE84A289380.M_PortalDeviceScreen_0-97387AE84A289380EditorOnlyData"'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="Screen Look At Point" Archetype=/Script/Engine.SceneComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal_Parent.BP_Creative_MatchmakingPortal_Parent_C:Screen Look At Point_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Screen Look At Point"'
+         End Object
+         Begin Object Class=/Script/Engine.AudioComponent Name="Portal Loop Audio" Archetype=/Script/Engine.AudioComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal_Parent.BP_Creative_MatchmakingPortal_Parent_C:Portal Loop Audio_GEN_VARIABLE' ExportPath=/Script/Engine.AudioComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Portal Loop Audio"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="NoThumbnailPlane" Archetype=/Script/Engine.StaticMeshComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal.BP_Creative_MatchmakingPortal_C:NoThumbnailPlane_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.NoThumbnailPlane"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="InteractPlane" Archetype=/Script/Engine.BoxComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal.BP_Creative_MatchmakingPortal_C:InteractPlane_GEN_VARIABLE' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InteractPlane"'
+         End Object
+         Begin Object Class=/Script/UMG.WidgetComponent Name="InWorldHUDWidget" Archetype=/Script/UMG.WidgetComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal.BP_Creative_MatchmakingPortal_C:InWorldHUDWidget_GEN_VARIABLE' ExportPath=/Script/UMG.WidgetComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget"'
+            Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_0" ExportPath=/Script/Engine.BodySetup'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget.BodySetup_0"'
+            End Object
+            Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_1" ExportPath=/Script/Engine.BodySetup'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget.BodySetup_1"'
+            End Object
+            Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_2" ExportPath=/Script/Engine.BodySetup'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget.BodySetup_2"'
+            End Object
+            Begin Object Class=/Script/Engine.MaterialInstanceDynamic Name="MaterialInstanceDynamic_0" ExportPath=/Script/Engine.MaterialInstanceDynamic'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget.MaterialInstanceDynamic_0"'
+               Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="MaterialInstanceDynamic_0EditorOnlyData" ExportPath=/Script/Engine.MaterialInstanceEditorOnlyData'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget.MaterialInstanceDynamic_0.MaterialInstanceDynamic_0EditorOnlyData"'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortActorTemplatesComponent Name="FortActorTemplates" Archetype=/Script/FortniteGame.FortActorTemplatesComponent'/Game/Creative/Devices/MatchmakingPortal/BP_Creative_MatchmakingPortal.BP_Creative_MatchmakingPortal_C:FortActorTemplates_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortActorTemplatesComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.FortActorTemplates"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="TransferPopulationReceiver" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_GameStream/BP_Creative_GameStream.BP_Creative_GameStream_C:TransferPopulationReceiver_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.TransferPopulationReceiver"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="QueueAtEndGameReceiver" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_GameStream/BP_Creative_GameStream.BP_Creative_GameStream_C:QueueAtEndGameReceiver_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.QueueAtEndGameReceiver"'
+         End Object
+         Begin Object Class=/Script/CRD_GameStreamRuntime.CreativeGameStreamDeviceComponent Name="CreativeGameStreamDeviceComponent" Archetype=/Script/CRD_GameStreamRuntime.CreativeGameStreamDeviceComponent'/CRD_GameStream/BP_Creative_GameStream.BP_Creative_GameStream_C:CreativeGameStreamDeviceComponent_GEN_VARIABLE' ExportPath=/Script/CRD_GameStreamRuntime.CreativeGameStreamDeviceComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.CreativeGameStreamDeviceComponent"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.StaticMeshComponent0"'
+            CachedMaxDrawDistance=21400.000000
+            OnComponentPhysicsStateChanged=(BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.OnPhysicsStateChanged)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="IslandCode_Knob"),(PropertyName="LabelOverride",PropertyData="Game Stream")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.VisibleInGameComponent"'
+            VisibleSceneComponents(0)=/Script/UMG.WidgetComponent'"TRASH_WidgetComponent_253"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="HUD Visibility Volume" ExportPath=/Script/Engine.SphereComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.HUD Visibility Volume"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=NoCollision,CollisionProfileName="Custom",MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Light" ExportPath=/Script/Engine.PointLightComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Light"'
+            MaxDrawDistance=21400.000000
+            MaxDistanceFadeRange=2048.000000
+            VolumetricScatteringIntensity=0.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableWhenReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.EnableWhenReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableWhenReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.DisableWhenReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortPortal" ExportPath=/Script/FortniteGame.FortPortalComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.FortPortal"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Capsule" ExportPath=/Script/Engine.CapsuleComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Capsule"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="HUD Widget Component" ExportPath=/Game/Creative/Devices/Common/Components/Creative_HeaderDescriptionHUD_Component.Creative_HeaderDescriptionHUD_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.HUD Widget Component"'
+            WidgetType=NewEnumerator1
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="Capsule"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ThumbnailPlane" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.ThumbnailPlane"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="Capsule"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Portal Look at Point" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Portal Look at Point"'
+            AttachParent="Capsule"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Code Entry Screen" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Code Entry Screen"'
+            Begin Object Name="M_PortalDeviceScreen_0-97387AE84A289380" ExportPath=/Script/Engine.MaterialInstanceDynamic'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Code Entry Screen.M_PortalDeviceScreen_0-97387AE84A289380"'
+               Begin Object Name="M_PortalDeviceScreen_0-97387AE84A289380EditorOnlyData" ExportPath=/Script/Engine.MaterialInstanceEditorOnlyData'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Code Entry Screen.M_PortalDeviceScreen_0-97387AE84A289380.M_PortalDeviceScreen_0-97387AE84A289380EditorOnlyData"'
+               End Object
+               Parent=/Script/Engine.Material'"/Game/Creative/Devices/PortalDevice/Materials/M_PortalDeviceScreen.M_PortalDeviceScreen"'
+               ScalarParameterValues(0)=(ParameterInfo=(Name="UseTexture"),ParameterValue=1.000000,ExpressionGUID=B82602B047901DD81898AD82393BBF62)
+               VectorParameterValues(0)=(ParameterInfo=(Name="Screen Tone"),ParameterValue=(R=0.000000,G=0.435204,B=0.859375,A=0.000000),ExpressionGUID=ED0B7E8E4944E147159FAA99EADD034D)
+               BasePropertyOverrides=(ShadingModel=MSM_Unlit,OpacityMaskClipValue=0.333300)
+               ReferencedTextureGuids(0)=7324CD124EBB111FA9A95DABB14DEA31
+               ReferencedTextureGuids(1)=81836FDF44A16BDB29304DA796C4F9DA
+               ReferencedTextureGuids(2)=87F7EFAE4CA69975BBE345888D1CCC3F
+               EditorOnlyData=/Script/Engine.MaterialInstanceEditorOnlyData'"M_PortalDeviceScreen_0-97387AE84A289380EditorOnlyData"'
+               LightingGuid=04109991412A8A9471431C86F3D58006
+            End Object
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceDynamic'"M_PortalDeviceScreen_0-97387AE84A289380"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=NoCollision,CollisionProfileName="Custom",MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            bHiddenInGame=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Screen Look At Point" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Screen Look At Point"'
+            AttachParent="Code Entry Screen"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Portal Loop Audio" ExportPath=/Script/Engine.AudioComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.Portal Loop Audio"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="NoThumbnailPlane" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.NoThumbnailPlane"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="Capsule"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="InteractPlane" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InteractPlane"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="Capsule"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="InWorldHUDWidget" ExportPath=/Script/UMG.WidgetComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget"'
+            Begin Object Name="BodySetup_0" ExportPath=/Script/Engine.BodySetup'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget.BodySetup_0"'
+               AggGeom=(BoxElems=((Center=(X=0.500000,Y=0.000000,Z=0.000000),X=0.010000,Y=373.000000,Z=110.000000)))
+               CollisionTraceFlag=CTF_UseSimpleAsComplex
+            End Object
+            Begin Object Name="BodySetup_1" ExportPath=/Script/Engine.BodySetup'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget.BodySetup_1"'
+               AggGeom=(BoxElems=((Center=(X=0.500000,Y=0.000000,Z=0.000000),X=0.010000,Y=373.000000,Z=110.000000)))
+               CollisionTraceFlag=CTF_UseSimpleAsComplex
+            End Object
+            Begin Object Name="BodySetup_2" ExportPath=/Script/Engine.BodySetup'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget.BodySetup_2"'
+               AggGeom=(BoxElems=((Center=(X=0.500000,Y=0.000000,Z=0.000000),X=0.010000,Y=373.000000,Z=110.000000)))
+               CollisionTraceFlag=CTF_UseSimpleAsComplex
+            End Object
+            Begin Object Name="MaterialInstanceDynamic_0" ExportPath=/Script/Engine.MaterialInstanceDynamic'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget.MaterialInstanceDynamic_0"'
+               Begin Object Name="MaterialInstanceDynamic_0EditorOnlyData" ExportPath=/Script/Engine.MaterialInstanceEditorOnlyData'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.InWorldHUDWidget.MaterialInstanceDynamic_0.MaterialInstanceDynamic_0EditorOnlyData"'
+               End Object
+               Parent=/Script/Engine.MaterialInstanceConstant'"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided.Widget3DPassThrough_Masked_OneSided"'
+               ScalarParameterValues(0)=(ParameterInfo=(Name="OpacityFromTexture"),ParameterValue=1.000000)
+               VectorParameterValues(0)=(ParameterInfo=(Name="TintColorAndOpacity"),ParameterValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000))
+               TextureParameterValues(0)=(ParameterInfo=(Name="SlateUI"),ParameterValue=/Script/Engine.TextureRenderTarget2D'"TRASH_WidgetComponent_328.TextureRenderTarget2D_0"')
+               EditorOnlyData=/Script/Engine.MaterialInstanceEditorOnlyData'"MaterialInstanceDynamic_0EditorOnlyData"'
+               LightingGuid=1CEA1067438CE78225A6ACB040183C95
+            End Object
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="Capsule"
+            bVisible=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortActorTemplates" ExportPath=/Script/FortniteGame.FortActorTemplatesComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.FortActorTemplates"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="TransferPopulationReceiver" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.TransferPopulationReceiver"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="QueueAtEndGameReceiver" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.QueueAtEndGameReceiver"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CreativeGameStreamDeviceComponent" ExportPath=/Script/CRD_GameStreamRuntime.CreativeGameStreamDeviceComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_Creative_GameStream_C_UAID_94DE80055EB2D79D01_1788534796.CreativeGameStreamDeviceComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         CreativeGameStreamDeviceComponent="CreativeGameStreamDeviceComponent"
+         QueueAtEndGameReceiver="QueueAtEndGameReceiver"
+         TransferPopulationReceiver="TransferPopulationReceiver"
+         FortActorTemplates="FortActorTemplates"
+         InWorldHUDWidget="InWorldHUDWidget"
+         InteractPlane="InteractPlane"
+         NoThumbnailPlane="NoThumbnailPlane"
+         Portal Loop Audio="Portal Loop Audio"
+         Portal Look at Point="Portal Look at Point"
+         Screen Look At Point="Screen Look At Point"
+         Code Entry Screen="Code Entry Screen"
+         ThumbnailPlane="ThumbnailPlane"
+         HUD Widget Component="HUD Widget Component"
+         Capsule="Capsule"
+         FortPortal="FortPortal"
+         DisableWhenReceived="DisableWhenReceived"
+         EnableWhenReceived="EnableWhenReceived"
+         Light="Light"
+         HUD Visibility Volume="HUD Visibility Volume"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         TimeOfDayControlledLightDataArray(0)=(LightComponent="Light",Position=(X=-14.770836,Y=0.001709,Z=56.763344),InitialIntensity=8.000000)
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=E4A992884E32F975ABC5588E1651958C
+         PlaysetPackagePathName="/CRD_GameStream/SetupAssets/PID_CP_Devices_GameStream"
+         LabelOverride="Game Stream"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Game Stream"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

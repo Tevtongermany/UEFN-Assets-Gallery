@@ -1,0 +1,175 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C Name=Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008 Archetype=/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C'/CRD_StreamingRadio/Device_StreamingRadio.Default__Device_StreamingRadio_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_StreamingRadio/Device_StreamingRadio.Default__Device_StreamingRadio_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_StreamingRadio/Device_StreamingRadio.Default__Device_StreamingRadio_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_StreamingRadio/Device_StreamingRadio.Default__Device_StreamingRadio_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateOnChannelReceiverMessage" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:ActivateOnChannelReceiverMessage_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.ActivateOnChannelReceiverMessage"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DeactivateOnChannelReceiverMessage" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:DeactivateOnChannelReceiverMessage_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.DeactivateOnChannelReceiverMessage"'
+         End Object
+         Begin Object Class=/Script/Engine.SphereComponent Name="AttenuationSphere" Archetype=/Script/Engine.SphereComponent'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:AttenuationSphere_GEN_VARIABLE' ExportPath=/Script/Engine.SphereComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.AttenuationSphere"'
+            Begin Object Class=/Script/Engine.BodySetup Name="BodySetup_0" Archetype=/Script/Engine.BodySetup'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:AttenuationSphere_GEN_VARIABLE.BodySetup_0' ExportPath=/Script/Engine.BodySetup'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.AttenuationSphere.BodySetup_0"'
+            End Object
+         End Object
+         Begin Object Class=/Script/Engine.AudioComponent Name="StreamingRadioBus" Archetype=/Script/Engine.AudioComponent'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:StreamingRadioBus_GEN_VARIABLE' ExportPath=/Script/Engine.AudioComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.StreamingRadioBus"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ChangeChannelOnChannel" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:ChangeChannelOnChannel_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.ChangeChannelOnChannel"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="PlacardMesh" Archetype=/Script/Engine.StaticMeshComponent'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:PlacardMesh_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.PlacardMesh"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="PlayOnChannelReceiverMessage" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:PlayOnChannelReceiverMessage_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.PlayOnChannelReceiverMessage"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="StopOnChannelReceiverMessage" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:StopOnChannelReceiverMessage_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.StopOnChannelReceiverMessage"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="RadioMesh" Archetype=/Script/Engine.StaticMeshComponent'/CRD_StreamingRadio/Device_StreamingRadio.Device_StreamingRadio_C:RadioMesh_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.RadioMesh"'
+            Begin Object Class=/Script/Engine.MaterialInstanceDynamic Name="MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8" ExportPath=/Script/Engine.MaterialInstanceDynamic'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.RadioMesh.MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8"'
+               Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8EditorOnlyData" ExportPath=/Script/Engine.MaterialInstanceEditorOnlyData'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.RadioMesh.MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8.MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8EditorOnlyData"'
+               End Object
+            End Object
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.StaticMeshComponent0"'
+            CachedMaxDrawDistance=21400.000000
+            OnComponentPhysicsStateChanged=(Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.OnPhysicsStateChanged)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="AttenuationDistanceUserOption",PropertyData="500000.000000"),(PropertyName="bAutoPlay",PropertyData="True"),(PropertyName="bShowDeviceDuringGame",PropertyData="True"),(PropertyName="EnabledIndex",PropertyData="0"),(PropertyName="LabelOverride",PropertyData="Streaming Radio"),(PropertyName="RadioStationIdx",PropertyData="0"),(PropertyName="StationOneVUID"),(PropertyName="StationThreeVUID"),(PropertyName="StationTwoVUID"),(PropertyName="StreamingRadioColor",PropertyData="(R=0.015209,G=0.187821,B=0.296138,A=1.000000)"),(PropertyName="SyncLevel",PropertyData="Island"),(PropertyName="Volume",PropertyData="1.000000")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateOnChannelReceiverMessage" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.ActivateOnChannelReceiverMessage"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DeactivateOnChannelReceiverMessage" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.DeactivateOnChannelReceiverMessage"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="AttenuationSphere" ExportPath=/Script/Engine.SphereComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.AttenuationSphere"'
+            Begin Object Name="BodySetup_0" ExportPath=/Script/Engine.BodySetup'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.AttenuationSphere.BodySetup_0"'
+               AggGeom=(SphereElems=((Radius=500400.000000)))
+            End Object
+            SphereRadius=500400.000000
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="StreamingRadioBus" ExportPath=/Script/Engine.AudioComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.StreamingRadioBus"'
+            AttenuationOverrides=(bSpatialize=False,bEnableReverbSend=True,AttenuationShapeExtents=(X=400.000000,Y=0.000000,Z=0.000000),FalloffDistance=500000.000000)
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ChangeChannelOnChannel" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.ChangeChannelOnChannel"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PlacardMesh" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.PlacardMesh"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=NoCollision,MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PlayOnChannelReceiverMessage" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.PlayOnChannelReceiverMessage"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="StopOnChannelReceiverMessage" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.StopOnChannelReceiverMessage"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="RadioMesh" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.RadioMesh"'
+            Begin Object Name="MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8" ExportPath=/Script/Engine.MaterialInstanceDynamic'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.RadioMesh.MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8"'
+               Begin Object Name="MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8EditorOnlyData" ExportPath=/Script/Engine.MaterialInstanceEditorOnlyData'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_StreamingRadio_C_UAID_94DE80055EB2D89D01_1656653008.RadioMesh.MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8.MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8EditorOnlyData"'
+               End Object
+               Parent=/Script/Engine.MaterialInstanceConstant'"/Game/Creative/Devices/MusicDevice/Materials/MI_CP_Device_MusicDevice_Skin_01.MI_CP_Device_MusicDevice_Skin_01"'
+               VectorParameterValues(0)=(ParameterInfo=(Name="Base Color Tint"),ParameterValue=(R=0.015209,G=0.187821,B=0.296138,A=1.000000),ExpressionGUID=0F8C6DB04CFCE342AFB3D0A2F93A2524)
+               BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+               ReferencedTextureGuids(0)=967A57A2499FAF5D8F457F839D057286
+               ReferencedTextureGuids(1)=87682301495C32C0FCC1559FEFC4B380
+               ReferencedTextureGuids(2)=0E01991D41DDB9BEED59428D2B2BBAE1
+               EditorOnlyData=/Script/Engine.MaterialInstanceEditorOnlyData'"MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8EditorOnlyData"'
+               LightingGuid=719B3D15413B99C59883E19C414DAB5F
+            End Object
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceDynamic'"MI_CP_Device_MusicDevice_Skin_01_0-BAFB0859EA7971B8"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         RadioMesh="RadioMesh"
+         StopOnChannelReceiverMessage="StopOnChannelReceiverMessage"
+         PlayOnChannelReceiverMessage="PlayOnChannelReceiverMessage"
+         PlacardMesh="PlacardMesh"
+         ChangeChannelOnChannel="ChangeChannelOnChannel"
+         StreamingRadioBus="StreamingRadioBus"
+         AttenuationSphere="AttenuationSphere"
+         DeactivateOnChannelReceiverMessage="DeactivateOnChannelReceiverMessage"
+         ActivateOnChannelReceiverMessage="ActivateOnChannelReceiverMessage"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=0F0AFD1D488DF5F1FD7B9791640BC23C
+         PlaysetPackagePathName="/CRD_StreamingRadio/SetupAssets/PID_CP_Device_StreamingRadio"
+         LabelOverride="Streaming Radio"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Streaming Radio"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

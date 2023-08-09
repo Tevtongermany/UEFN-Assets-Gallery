@@ -1,0 +1,93 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_GravityGunController/Creative_Device_GravityGunController.Creative_Device_GravityGunController_C Name=Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994 Archetype=/CRD_GravityGunController/Creative_Device_GravityGunController.Creative_Device_GravityGunController_C'/CRD_GravityGunController/Creative_Device_GravityGunController.Default__Creative_Device_GravityGunController_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_GravityGunController/Creative_Device_GravityGunController.Default__Creative_Device_GravityGunController_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_GravityGunController/Creative_Device_GravityGunController.Default__Creative_Device_GravityGunController_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_GravityGunController/Creative_Device_GravityGunController.Default__Creative_Device_GravityGunController_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_GravityGunController/Creative_Device_GravityGunController.Creative_Device_GravityGunController_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMesh1" Archetype=/Script/Engine.StaticMeshComponent'/CRD_GravityGunController/Creative_Device_GravityGunController.Creative_Device_GravityGunController_C:StaticMesh1_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.StaticMesh1"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="Glow" Archetype=/Script/Engine.StaticMeshComponent'/CRD_GravityGunController/Creative_Device_GravityGunController.Creative_Device_GravityGunController_C:Glow_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.Glow"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.StaticMeshComponent0"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=NoCollision,CollisionProfileName="Custom")
+            OnComponentPhysicsStateChanged=(Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.OnPhysicsStateChanged)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="LabelOverride",PropertyData="Gravity Gun Controller"),(PropertyName="TypeOptions",PropertyData="0")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            Visibility Components with Collision=(("StaticMeshComponent0", NoCollision),(None, QueryOnly),(None, NoCollision))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="StaticMesh1" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.StaticMesh1"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Glow" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_GravityGunController_C_UAID_94DE80055EB2D89D01_1237330994.Glow"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMesh1"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Glow="Glow"
+         StaticMesh1="StaticMesh1"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=AD105AB74353AD078F114A859B4C60C8
+         PlaysetPackagePathName="/CRD_GravityGunController/SetupAssets/PID_Device_GravityGunController"
+         LabelOverride="Gravity Gun Controller"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Gravity Gun Controller"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

@@ -1,0 +1,375 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C Name=Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794 Archetype=/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C'/CRD_DanceVolume/Device_DanceVolume.Default__Device_DanceVolume_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_DanceVolume/Device_DanceVolume.Default__Device_DanceVolume_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_DanceVolume/Device_DanceVolume.Default__Device_DanceVolume_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_DanceVolume/Device_DanceVolume.Default__Device_DanceVolume_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/CRD_VolumetricRegion/SetupAssets/Volumes/BP_Device_EffectVolume_V2.BP_Device_EffectVolume_V2_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="ZoneMesh" Archetype=/Script/Engine.StaticMeshComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ZoneMesh_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ZoneMesh"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="TriggerParent" Archetype=/Script/Engine.SceneComponent'/CRD_VolumetricRegion/SetupAssets/Volumes/BP_Device_EffectVolume_V2.BP_Device_EffectVolume_V2_C:TriggerParent_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.TriggerParent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/CreativeVolumeFrame.CreativeVolumeFrame_C Name="CreativeVolumeFrame" Archetype=/Game/Creative/Devices/Common/Components/CreativeVolumeFrame.CreativeVolumeFrame_C'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:CreativeVolumeFrame_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/CreativeVolumeFrame.CreativeVolumeFrame_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeVolumeFrame"'
+            Begin Object Class=/Script/Engine.MaterialInstanceDynamic Name="M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0" ExportPath=/Script/Engine.MaterialInstanceDynamic'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeVolumeFrame.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0"'
+               Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0EditorOnlyData" ExportPath=/Script/Engine.MaterialInstanceEditorOnlyData'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeVolumeFrame.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0EditorOnlyData"'
+               End Object
+            End Object
+            Begin Object Class=/Script/Engine.MaterialInstanceDynamic Name="M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8" ExportPath=/Script/Engine.MaterialInstanceDynamic'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeVolumeFrame.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8"'
+               Begin Object Class=/Script/Engine.MaterialInstanceEditorOnlyData Name="M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8EditorOnlyData" ExportPath=/Script/Engine.MaterialInstanceEditorOnlyData'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeVolumeFrame.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8EditorOnlyData"'
+               End Object
+            End Object
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableWhenReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:DisableWhenReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.DisableWhenReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableWhenReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_VolumetricRegion/SetupAssets/Volumes/BP_Device_EffectVolume_V2.BP_Device_EffectVolume_V2_C:EnableWhenReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.EnableWhenReceived"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="BaseVisibilityComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/CRD_VolumetricRegion/SetupAssets/Volumes/BP_Device_EffectVolume_V2.BP_Device_EffectVolume_V2_C:BaseVisibilityComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.BaseVisibilityComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C Name="CreativeUseRestrictionComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/CRD_VolumetricRegion/SetupAssets/Volumes/BP_Device_EffectVolume_V2.BP_Device_EffectVolume_V2_C:CreativeUseRestrictionComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeUseRestrictionComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.CreativeEditOnlyMeshComponent Name="Interact Mesh" Archetype=/Script/FortniteGame.CreativeEditOnlyMeshComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:Interact Mesh_GEN_VARIABLE' ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.Interact Mesh"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="StartEmote_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:StartEmote_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.StartEmote_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="StopEmote_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:StopEmote_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.StopEmote_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="StartEmoteOnPlayer_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:StartEmoteOnPlayer_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.StartEmoteOnPlayer_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="StopEmoteOnPlayer_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:StopEmoteOnPlayer_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.StopEmoteOnPlayer_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="WhenEmoteStarts_Component" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:WhenEmoteStarts_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.WhenEmoteStarts_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="WhenEmoteStops_Component" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:WhenEmoteStops_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.WhenEmoteStops_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateDefaultEmote_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateDefaultEmote_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateDefaultEmote_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateEmotePreset2_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateEmotePreset2_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset2_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateEmotePreset3_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateEmotePreset3_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset3_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateEmotePreset4_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateEmotePreset4_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset4_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateEmotePreset5_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateEmotePreset5_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset5_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateEmotePreset6_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateEmotePreset6_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset6_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateEmotePreset7_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateEmotePreset7_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset7_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateEmotePreset8_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateEmotePreset8_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset8_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateEmotePreset9_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateEmotePreset9_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset9_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateEmotePreset10_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateEmotePreset10_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset10_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ActivateEmoteLeader_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ActivateEmoteLeader_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmoteLeader_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ResetEmoteLeader_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ResetEmoteLeader_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ResetEmoteLeader_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="PauseEmote_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:PauseEmote_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.PauseEmote_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ResumeEmote_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ResumeEmote_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ResumeEmote_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="PauseEmoteOnPlayer_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:PauseEmoteOnPlayer_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.PauseEmoteOnPlayer_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ResumeEmoteOnPlayer_Component" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:ResumeEmoteOnPlayer_Component_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ResumeEmoteOnPlayer_Component"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/CreativePreviewOnlyMesh.CreativePreviewOnlyMesh_C Name="CreativePreviewOnlyMesh" Archetype=/Game/Creative/Devices/Common/Components/CreativePreviewOnlyMesh.CreativePreviewOnlyMesh_C'/CRD_DanceVolume/Device_DanceVolume.Device_DanceVolume_C:CreativePreviewOnlyMesh_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/CreativePreviewOnlyMesh.CreativePreviewOnlyMesh_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativePreviewOnlyMesh"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.StaticMeshComponent0"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=NoCollision,CollisionProfileName="Custom")
+            OnComponentPhysicsStateChanged=(Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.OnPhysicsStateChanged)
+            bHiddenInGame=True
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="AutomaticallyPlayEmote",PropertyData="True"),(PropertyName="BaseVisibleDuringGame",PropertyData="False"),(PropertyName="DefaultEmote",PropertyData="/Game/Athena/Items/Cosmetics/Dances/EID_BreakfastCoffeeDance.EID_BreakfastCoffeeDance"),(PropertyName="EmotePreset10",PropertyData="/Game/Athena/Items/Cosmetics/Dances/EID_BreakfastCoffeeDance.EID_BreakfastCoffeeDance"),(PropertyName="EmotePreset2",PropertyData="/Game/Athena/Items/Cosmetics/Dances/EID_BreakfastCoffeeDance.EID_BreakfastCoffeeDance"),(PropertyName="EmotePreset3",PropertyData="/Game/Athena/Items/Cosmetics/Dances/EID_BreakfastCoffeeDance.EID_BreakfastCoffeeDance"),(PropertyName="EmotePreset4",PropertyData="/Game/Athena/Items/Cosmetics/Dances/EID_BreakfastCoffeeDance.EID_BreakfastCoffeeDance"),(PropertyName="EmotePreset5",PropertyData="/Game/Athena/Items/Cosmetics/Dances/EID_BreakfastCoffeeDance.EID_BreakfastCoffeeDance"),(PropertyName="EmotePreset6",PropertyData="/Game/Athena/Items/Cosmetics/Dances/EID_BreakfastCoffeeDance.EID_BreakfastCoffeeDance"),(PropertyName="EmotePreset7",PropertyData="/Game/Athena/Items/Cosmetics/Dances/EID_BreakfastCoffeeDance.EID_BreakfastCoffeeDance"),(PropertyName="EmotePreset8",PropertyData="/Game/Athena/Items/Cosmetics/Dances/EID_BreakfastCoffeeDance.EID_BreakfastCoffeeDance"),(PropertyName="EmotePreset9",PropertyData="/Game/Athena/Items/Cosmetics/Dances/EID_BreakfastCoffeeDance.EID_BreakfastCoffeeDance"),(PropertyName="EnabledOnPhase",PropertyData="Gameplay Only"),(PropertyName="InvertClassSelection",PropertyData="False"),(PropertyName="InvertTeamSelection",PropertyData="False"),(PropertyName="LabelOverride",PropertyData="Emote Volume"),(PropertyName="MuteEmoteAudio",PropertyData="False"),(PropertyName="RhythmicallySyncEmotes",PropertyData="Off"),(PropertyName="SelectedClass",PropertyData="(ClassType=Any,ClassSlot=1)"),(PropertyName="SelectedTeam",PropertyData="(TeamType=Any,TeamIndex=1)"),(PropertyName="Tempo",PropertyData="110.000000"),(PropertyName="ZoneDepth",PropertyData="1.000000"),(PropertyName="ZoneHeight",PropertyData="1.000000"),(PropertyName="ZoneVisibleDuringGame",PropertyData="False"),(PropertyName="ZoneWidth",PropertyData="1.000000")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.EnabledComponent"'
+            Enabled Index=2
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="ZoneMesh"
+            VisibleDuringPhase=NewEnumerator1
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ZoneMesh" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ZoneMesh"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=QueryAndPhysics,MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            RelativeScale3D=(X=512.000000,Y=512.000000,Z=384.000000)
+            bHiddenInGame=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="TriggerParent" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.TriggerParent"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CreativeVolumeFrame" ExportPath=/Game/Creative/Devices/Common/Components/CreativeVolumeFrame.CreativeVolumeFrame_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeVolumeFrame"'
+            Begin Object Name="M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0" ExportPath=/Script/Engine.MaterialInstanceDynamic'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeVolumeFrame.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0"'
+               Begin Object Name="M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0EditorOnlyData" ExportPath=/Script/Engine.MaterialInstanceEditorOnlyData'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeVolumeFrame.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0EditorOnlyData"'
+               End Object
+               Parent=/Script/Engine.MaterialInstanceConstant'"/CRD_DanceVolume/Materials/M_CP_DeviceZone_Frame_01_Dance.M_CP_DeviceZone_Frame_01_Dance"'
+               VectorParameterValues(0)=(ParameterInfo=(Name="SizeBias"),ParameterValue=(R=0.256000,G=0.256000,B=0.384000,A=1.000000),ExpressionGUID=5932C37048615E222D3B85A24EABB786)
+               BasePropertyOverrides=(TwoSided=True,ShadingModel=MSM_Unlit,OpacityMaskClipValue=0.333300)
+               EditorOnlyData=/Script/Engine.MaterialInstanceEditorOnlyData'"M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8_0EditorOnlyData"'
+               LightingGuid=364ADD61414F0CD0FD72D1999E72FD2B
+            End Object
+            Begin Object Name="M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8" ExportPath=/Script/Engine.MaterialInstanceDynamic'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeVolumeFrame.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8"'
+               Begin Object Name="M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8EditorOnlyData" ExportPath=/Script/Engine.MaterialInstanceEditorOnlyData'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeVolumeFrame.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8.M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8EditorOnlyData"'
+               End Object
+               Parent=/Script/Engine.MaterialInstanceConstant'"/CRD_DanceVolume/Materials/M_CP_DeviceZone_Frame_01_Dance.M_CP_DeviceZone_Frame_01_Dance"'
+               VectorParameterValues(0)=(ParameterInfo=(Name="SizeBias"),ParameterValue=(R=0.256000,G=0.256000,B=0.384000,A=1.000000))
+               EditorOnlyData=/Script/Engine.MaterialInstanceEditorOnlyData'"M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8EditorOnlyData"'
+               LightingGuid=A416CB1A4B1268EA3F137185867BD371
+            End Object
+            Shape=NewEnumerator1
+            ZoneScaleMultipliers=(X=5.120000,Y=5.120000,Z=3.840000)
+            EditMesh="/Game/Abilities/Toys/EliminationVolume/S_EliminationVolume.S_EliminationVolume"
+            EditOverrideMaterials(0)="/CRD_DanceVolume/Materials/M_CP_DeviceZone_Frame_01_Dance.M_CP_DeviceZone_Frame_01_Dance"
+            PreviewOverrideMesh="/Game/Creative/Devices/DeviceZone_Base/Meshes/CP_DeviceZone_Frame_01_Placer.CP_DeviceZone_Frame_01_Placer"
+            PreviewOverrideMaterials(0)="/Game/Creative/Devices/DeviceZone_Base/Materials/M_CP_DeviceZone_Frame_Hologram_01.M_CP_DeviceZone_Frame_Hologram_01"
+            OnMeshAndMaterialsLoaded=(CreativeVolumeFrame.On Mesh Loaded)
+            StaticMesh=/Script/Engine.StaticMesh'"/Game/Abilities/Toys/EliminationVolume/S_EliminationVolume.S_EliminationVolume"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceDynamic'"M_CP_DeviceZone_Frame_01_Dance_0-3C58CDD8FF4A54B8"'
+            CachedMaxDrawDistance=21400.000000
+            BoundsScale=1.501500
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="TriggerParent"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableWhenReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.DisableWhenReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableWhenReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.EnableWhenReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="BaseVisibilityComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.BaseVisibilityComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            VisibleDuringPhase=NewEnumerator1
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CreativeUseRestrictionComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativeUseRestrictionComponent"'
+            MinigameLogic="FortMinigameProgress"
+            Valid Class List=(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,255)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Interact Mesh" ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.Interact Mesh"'
+            StaticMesh=/Script/Engine.StaticMesh'"/Game/Creative/Devices/Generic/Meshes/CP_Device_Generic_Icon_01.CP_Device_Generic_Icon_01"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceConstant'"/CRD_DanceVolume/Materials/MI_CP_Device_DanceVolume_Placed_01.MI_CP_Device_DanceVolume_Placed_01"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="StartEmote_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.StartEmote_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="StopEmote_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.StopEmote_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="StartEmoteOnPlayer_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.StartEmoteOnPlayer_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="StopEmoteOnPlayer_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.StopEmoteOnPlayer_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="WhenEmoteStarts_Component" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.WhenEmoteStarts_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="WhenEmoteStops_Component" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.WhenEmoteStops_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateDefaultEmote_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateDefaultEmote_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateEmotePreset2_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset2_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateEmotePreset3_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset3_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateEmotePreset4_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset4_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateEmotePreset5_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset5_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateEmotePreset6_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset6_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateEmotePreset7_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset7_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateEmotePreset8_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset8_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateEmotePreset9_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset9_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateEmotePreset10_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmotePreset10_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ActivateEmoteLeader_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ActivateEmoteLeader_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ResetEmoteLeader_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ResetEmoteLeader_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PauseEmote_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.PauseEmote_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ResumeEmote_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ResumeEmote_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="PauseEmoteOnPlayer_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.PauseEmoteOnPlayer_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ResumeEmoteOnPlayer_Component" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.ResumeEmoteOnPlayer_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CreativePreviewOnlyMesh" ExportPath=/Game/Creative/Devices/Common/Components/CreativePreviewOnlyMesh.CreativePreviewOnlyMesh_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_DanceVolume_C_UAID_94DE80055EB2D79D01_1516072794.CreativePreviewOnlyMesh"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="ZoneMesh"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         CreativePreviewOnlyMesh="CreativePreviewOnlyMesh"
+         ResumeEmoteOnPlayer_Component="ResumeEmoteOnPlayer_Component"
+         PauseEmoteOnPlayer_Component="PauseEmoteOnPlayer_Component"
+         ResumeEmote_Component="ResumeEmote_Component"
+         PauseEmote_Component="PauseEmote_Component"
+         ResetEmoteLeader_Component="ResetEmoteLeader_Component"
+         ActivateEmoteLeader_Component="ActivateEmoteLeader_Component"
+         ActivateEmotePreset10_Component="ActivateEmotePreset10_Component"
+         ActivateEmotePreset9_Component="ActivateEmotePreset9_Component"
+         ActivateEmotePreset8_Component="ActivateEmotePreset8_Component"
+         ActivateEmotePreset7_Component="ActivateEmotePreset7_Component"
+         ActivateEmotePreset6_Component="ActivateEmotePreset6_Component"
+         ActivateEmotePreset5_Component="ActivateEmotePreset5_Component"
+         ActivateEmotePreset4_Component="ActivateEmotePreset4_Component"
+         ActivateEmotePreset3_Component="ActivateEmotePreset3_Component"
+         ActivateEmotePreset2_Component="ActivateEmotePreset2_Component"
+         ActivateDefaultEmote_Component="ActivateDefaultEmote_Component"
+         WhenEmoteStops_Component="WhenEmoteStops_Component"
+         WhenEmoteStarts_Component="WhenEmoteStarts_Component"
+         StopEmoteOnPlayer_Component="StopEmoteOnPlayer_Component"
+         StartEmoteOnPlayer_Component="StartEmoteOnPlayer_Component"
+         StopEmote_Component="StopEmote_Component"
+         StartEmote_Component="StartEmote_Component"
+         Interact Mesh="Interact Mesh"
+         CreativeVolumeFrame="CreativeVolumeFrame"
+         CreativeUseRestrictionComponent="CreativeUseRestrictionComponent"
+         BaseVisibilityComponent="BaseVisibilityComponent"
+         EnableWhenReceived="EnableWhenReceived"
+         DisableWhenReceived="DisableWhenReceived"
+         TriggerParent="TriggerParent"
+         ZoneMesh="ZoneMesh"
+         NewScale=(X=1.000000,Y=1.000000,Z=1.000000)
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=4D4177BB42D0F5DA1D68D1967E75C3EE
+         LabelOverride="Emote Volume"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Emote Volume"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

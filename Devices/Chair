@@ -1,0 +1,300 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C Name=Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792 Archetype=/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C'/CRD_Chair/SetupAssets/Device_Chair.Default__Device_Chair_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_Chair/SetupAssets/Device_Chair.Default__Device_Chair_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_Chair/SetupAssets/Device_Chair.Default__Device_Chair_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_Chair/SetupAssets/Device_Chair.Default__Device_Chair_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C Name="Creative_UseRestriction_Component" Archetype=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:Creative_UseRestriction_Component_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.Creative_UseRestriction_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ForceSitOnReceive" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:ForceSitOnReceive_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.ForceSitOnReceive"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ForceStandOnReceive" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:ForceStandOnReceive_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.ForceStandOnReceive"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="MessageOnStand" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:MessageOnStand_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnStand"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="MessageOnSit" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:MessageOnSit_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnSit"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="ChairToDisplay" Archetype=/Script/Engine.StaticMeshComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:ChairToDisplay_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.ChairToDisplay"'
+         End Object
+         Begin Object Class=/Script/Engine.CapsuleComponent Name="InteractCap" Archetype=/Script/Engine.CapsuleComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:InteractCap_GEN_VARIABLE' ExportPath=/Script/Engine.CapsuleComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.InteractCap"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.CreativeEditOnlyMeshComponent Name="RadiusPreview" Archetype=/Script/FortniteGame.CreativeEditOnlyMeshComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:RadiusPreview_GEN_VARIABLE' ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.RadiusPreview"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableChair" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:EnableChair_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.EnableChair"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableChair" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:DisableChair_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.DisableChair"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="LockChair" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:LockChair_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.LockChair"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="UnlockChair" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:UnlockChair_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.UnlockChair"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="DismountPointLeft" Archetype=/Script/Engine.SceneComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:DismountPointLeft_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.DismountPointLeft"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="DismountPoint" Archetype=/Script/Engine.SceneComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:DismountPoint_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.DismountPoint"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="SitLocationForCrouchedPlayersComponent" Archetype=/Script/Engine.SceneComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:SitLocationForCrouchedPlayersComponent_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.SitLocationForCrouchedPlayersComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="DismountPointRight" Archetype=/Script/Engine.SceneComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:DismountPointRight_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.DismountPointRight"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="DismountPointBack" Archetype=/Script/Engine.SceneComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:DismountPointBack_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.DismountPointBack"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="SitLocationForStandingPlayersComponent" Archetype=/Script/Engine.SceneComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:SitLocationForStandingPlayersComponent_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.SitLocationForStandingPlayersComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="MessageOnInputUp" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:MessageOnInputUp_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputUp"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="MessageOnInputDown" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:MessageOnInputDown_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputDown"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="MessageOnInputRight" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:MessageOnInputRight_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputRight"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="MessageOnInputLeft" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:MessageOnInputLeft_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputLeft"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="MessageOnInputJump" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:MessageOnInputJump_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputJump"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="MessageOnInputCrouch" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:MessageOnInputCrouch_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputCrouch"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="MessageOnInputAim" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:MessageOnInputAim_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputAim"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="MessageOnInputFire" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Chair/SetupAssets/Device_Chair.Device_Chair_C:MessageOnInputFire_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputFire"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.StaticMeshComponent0"'
+            CachedMaxDrawDistance=21400.000000
+            OnComponentPhysicsStateChanged=(Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.OnPhysicsStateChanged)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="ActivatingTeam",PropertyData="(TeamType=Any,TeamIndex=1)"),(PropertyName="AllowedClass",PropertyData="(ClassType=Any,ClassSlot=1)"),(PropertyName="ChairDismountSide",PropertyData="Front"),(PropertyName="Custom Sit Animation",PropertyData="None"),(PropertyName="E_ChairModels",PropertyData="Basic"),(PropertyName="EnabledAtGameStart",PropertyData="True"),(PropertyName="Idle Animation Type",PropertyData="Default"),(PropertyName="InteractRadius",PropertyData="1.000000"),(PropertyName="InteractTime",PropertyData="0.000000"),(PropertyName="LabelOverride"),(PropertyName="PlayerExitEnabled",PropertyData="True"),(PropertyName="Press Aim Display"),(PropertyName="Press Crouch Display"),(PropertyName="Press Down Display"),(PropertyName="Press Fire Display"),(PropertyName="Press Jump Display"),(PropertyName="Press Left Display"),(PropertyName="Press Right Display"),(PropertyName="Press Up Display")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Creative_UseRestriction_Component" ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.Creative_UseRestriction_Component"'
+            EnabledComponent="EnabledComponent"
+            MinigameLogic="FortMinigameProgress"
+            Valid Class List=(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,255)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ForceSitOnReceive" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.ForceSitOnReceive"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ForceStandOnReceive" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.ForceStandOnReceive"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MessageOnStand" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnStand"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MessageOnSit" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnSit"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ChairToDisplay" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.ChairToDisplay"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="InteractCap" ExportPath=/Script/Engine.CapsuleComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.InteractCap"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionProfileName="FortTriggerOnlyInteractions",CollisionResponses=(ResponseArray=((Channel="WorldStatic",Response=ECR_Ignore),(Channel="WorldDynamic",Response=ECR_Ignore),(Channel="Pawn",Response=ECR_Ignore),(Channel="Visibility",Response=ECR_Ignore),(Channel="Camera",Response=ECR_Ignore),(Channel="PhysicsBody",Response=ECR_Ignore),(Channel="Vehicle",Response=ECR_Ignore),(Channel="Destructible",Response=ECR_Ignore),(Channel="FCC_Trace_Interaction"),(Channel="FCC_Trace_WeaponWorldMulti",Response=ECR_Ignore),(Channel="FCC_Object_Water",Response=ECR_Ignore))))
+            AttachParent="ChairToDisplay"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="RadiusPreview" ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.RadiusPreview"'
+            StaticMesh=/Script/Engine.StaticMesh'"/Game/Creative/Devices/CaptureArea/Meshes/Sm_CaptureAreaCylinder.Sm_CaptureAreaCylinder"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceConstant'"/Game/Creative/Devices/StormController/Materials/M_BasicStormController_Volume_Inst.M_BasicStormController_Volume_Inst"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="ChairToDisplay"
+            RelativeScale3D=(X=250.000000,Y=250.000000,Z=50.000000)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableChair" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.EnableChair"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableChair" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.DisableChair"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="LockChair" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.LockChair"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="UnlockChair" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.UnlockChair"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DismountPointLeft" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.DismountPointLeft"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DismountPoint" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.DismountPoint"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SitLocationForCrouchedPlayersComponent" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.SitLocationForCrouchedPlayersComponent"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DismountPointRight" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.DismountPointRight"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DismountPointBack" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.DismountPointBack"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SitLocationForStandingPlayersComponent" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.SitLocationForStandingPlayersComponent"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MessageOnInputUp" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputUp"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MessageOnInputDown" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputDown"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MessageOnInputRight" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputRight"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MessageOnInputLeft" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputLeft"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MessageOnInputJump" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputJump"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MessageOnInputCrouch" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputCrouch"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MessageOnInputAim" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputAim"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MessageOnInputFire" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_Chair_C_UAID_94DE80055EB2D79D01_1703317792.MessageOnInputFire"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         MessageOnInputFire="MessageOnInputFire"
+         MessageOnInputAim="MessageOnInputAim"
+         MessageOnInputCrouch="MessageOnInputCrouch"
+         MessageOnInputJump="MessageOnInputJump"
+         MessageOnInputLeft="MessageOnInputLeft"
+         MessageOnInputRight="MessageOnInputRight"
+         MessageOnInputDown="MessageOnInputDown"
+         MessageOnInputUp="MessageOnInputUp"
+         SitLocationForStandingPlayersComponent="SitLocationForStandingPlayersComponent"
+         DismountPointBack="DismountPointBack"
+         DismountPointRight="DismountPointRight"
+         RadiusPreview="RadiusPreview"
+         InteractCap="InteractCap"
+         SitLocationForCrouchedPlayersComponent="SitLocationForCrouchedPlayersComponent"
+         DismountPoint="DismountPoint"
+         DismountPointLeft="DismountPointLeft"
+         UnlockChair="UnlockChair"
+         LockChair="LockChair"
+         DisableChair="DisableChair"
+         EnableChair="EnableChair"
+         ChairToDisplay="ChairToDisplay"
+         MessageOnSit="MessageOnSit"
+         MessageOnStand="MessageOnStand"
+         ForceStandOnReceive="ForceStandOnReceive"
+         ForceSitOnReceive="ForceSitOnReceive"
+         Creative_UseRestriction_Component="Creative_UseRestriction_Component"
+         ChairStruct=(b_LockedInChair_8_3D3DAF9B49EF6F8D81C655AB9A28A998=True)
+         SetCollision=True
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=C2CD6A324C0CD9E7C495F1A604219041
+         PlaysetPackagePathName="/CRD_Chair/SetupAssets/Playset/PID_PG_CD_Chairs"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Chair"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

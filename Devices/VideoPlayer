@@ -1,0 +1,255 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C Name=Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806 Archetype=/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C'/CRD_LlamatronV2/Device_VideoPlayer_V2.Default__Device_VideoPlayer_V2_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Default__Device_VideoPlayer_V2_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Default__Device_VideoPlayer_V2_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Default__Device_VideoPlayer_V2_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:EnableWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EnableWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:DisableWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.DisableWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ChangeStreamWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:ChangeStreamWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.ChangeStreamWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C Name="Creative_UseRestriction_Component" Archetype=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:Creative_UseRestriction_Component_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.Creative_UseRestriction_Component"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="ScreenMesh" Archetype=/Script/Engine.StaticMeshComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:ScreenMesh_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.ScreenMesh"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/CreativePreviewOnlyMesh.CreativePreviewOnlyMesh_C Name="CreativePreviewOnlyMesh" Archetype=/Game/Creative/Devices/Common/Components/CreativePreviewOnlyMesh.CreativePreviewOnlyMesh_C'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:CreativePreviewOnlyMesh_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/CreativePreviewOnlyMesh.CreativePreviewOnlyMesh_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.CreativePreviewOnlyMesh"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="StopStreamWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:StopStreamWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.StopStreamWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ReleaseControlWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:ReleaseControlWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.ReleaseControlWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="TransmitOnStreamStarted" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:TransmitOnStreamStarted_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.TransmitOnStreamStarted"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="RestartStreamWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:RestartStreamWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.RestartStreamWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="SeekStreamWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:SeekStreamWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.SeekStreamWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableCollisionWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:DisableCollisionWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.DisableCollisionWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableCollisionWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:EnableCollisionWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EnableCollisionWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="MakePIPFullScreenWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:MakePIPFullScreenWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.MakePIPFullScreenWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="MakePIPDefaultSizeWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:MakePIPDefaultSizeWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.MakePIPDefaultSizeWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableVisibilityWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:EnableVisibilityWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EnableVisibilityWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableVisibilityWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:DisableVisibilityWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.DisableVisibilityWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="HidePIPWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:HidePIPWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.HidePIPWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="UpdateStreamToExternalVideoData" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:UpdateStreamToExternalVideoData_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.UpdateStreamToExternalVideoData"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EndExternalVideoControl" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:EndExternalVideoControl_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EndExternalVideoControl"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnterFullScreenWhenReceiving" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:EnterFullScreenWhenReceiving_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EnterFullScreenWhenReceiving"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ExitFullScreenWhenReceiving" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_LlamatronV2/Device_VideoPlayer_V2.Device_VideoPlayer_V2_C:ExitFullScreenWhenReceiving_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.ExitFullScreenWhenReceiving"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.StaticMeshComponent0"'
+            CachedMaxDrawDistance=21400.000000
+            OnComponentPhysicsStateChanged=(Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.OnPhysicsStateChanged)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="Always Allow PiP",PropertyData="False"),(PropertyName="ApprovedVUIDList"),(PropertyName="Attenuation Distance",PropertyData="5000.000000"),(PropertyName="Behavior On Other Stream Playing",PropertyData="True"),(PropertyName="bForceFullscreenOnActivation",PropertyData="False"),(PropertyName="bLooping",PropertyData="True"),(PropertyName="bSetCollision",PropertyData="True"),(PropertyName="bShowBorder",PropertyData="True"),(PropertyName="bShowColorValues",PropertyData="False"),(PropertyName="Can Interact",PropertyData="True"),(PropertyName="Custom Video ID"),(PropertyName="CutoffAdjustment",PropertyData="0.500000"),(PropertyName="Enabled During Phase",PropertyData="Always"),(PropertyName="EventID"),(PropertyName="EventPageName"),(PropertyName="GreenscreenColor",PropertyData="(R=0.000000,G=0.330000,B=0.000000,A=1.000000)"),(PropertyName="InteractTime",PropertyData="0.000000"),(PropertyName="LabelOverride",PropertyData="Video Player"),(PropertyName="Manual Color (Blue)",PropertyData="0.000000"),(PropertyName="Manual Color (Green)",PropertyData="0.000000"),(PropertyName="Manual Color (Red)",PropertyData="0.000000"),(PropertyName="Picture In Picture",PropertyData="False"),(PropertyName="Picture-in-Picture Trigger Range",PropertyData="250.000000"),(PropertyName="Play Automatically",PropertyData="True"),(PropertyName="Restart When This Stream Is Loaded",PropertyData="False"),(PropertyName="Screen Shape",PropertyData="Default"),(PropertyName="Should Look For Event Data",PropertyData="False"),(PropertyName="StreamPriority",PropertyData="0.000000"),(PropertyName="TriggeredSeekTime",PropertyData="0"),(PropertyName="Use Greenscreen",PropertyData="False"),(PropertyName="Use Manual Color Entry",PropertyData="False"),(PropertyName="Volume",PropertyData="1.000000")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EnableWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.DisableWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ChangeStreamWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.ChangeStreamWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Creative_UseRestriction_Component" ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.Creative_UseRestriction_Component"'
+            EnabledComponent=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"TRASH_Creative_Enabled_Component_C_264"'
+            MinigameLogic=/Script/FortniteGame.FortMinigameProgressComponent'"TRASH_FortMinigameProgressComponent_262"'
+            Valid Class List=(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,255)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ScreenMesh" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.ScreenMesh"'
+            OverrideMaterials(0)=/Script/Engine.Material'"/Game/Environments/FrontEnd/Materials/M_Monitor_Frame.M_Monitor_Frame"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(ObjectType=ECC_WorldStatic,CollisionProfileName="FortBuildingMeshPhysics",CollisionResponses=(ResponseArray=((Channel="FCC_Trace_Interaction"),(Channel="FCC_Trace_WeakSpot",Response=ECR_Overlap),(Channel="FCC_Trace_WeaponCapsule"),(Channel="FCC_Object_PawnAI"),(Channel="FCC_Trace_WeaponMulti"),(Channel="FCC_Trace_Weapon"),(Channel="FCC_Object_Projectile"),(Channel="FCC_Object_ProjectileIgnoreAI"),(Channel="FCC_Trace_World"),(Channel="FCC_Object_ProjectileMesh"),(Channel="FCC_Trace_WeaponPawnAndWorldMulti",Response=ECR_Overlap))),MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CreativePreviewOnlyMesh" ExportPath=/Game/Creative/Devices/Common/Components/CreativePreviewOnlyMesh.CreativePreviewOnlyMesh_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.CreativePreviewOnlyMesh"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="ScreenMesh"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="StopStreamWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.StopStreamWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ReleaseControlWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.ReleaseControlWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="TransmitOnStreamStarted" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.TransmitOnStreamStarted"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="RestartStreamWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.RestartStreamWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SeekStreamWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.SeekStreamWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableCollisionWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.DisableCollisionWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableCollisionWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EnableCollisionWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MakePIPFullScreenWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.MakePIPFullScreenWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="MakePIPDefaultSizeWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.MakePIPDefaultSizeWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableVisibilityWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EnableVisibilityWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableVisibilityWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.DisableVisibilityWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="HidePIPWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.HidePIPWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="UpdateStreamToExternalVideoData" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.UpdateStreamToExternalVideoData"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EndExternalVideoControl" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EndExternalVideoControl"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnterFullScreenWhenReceiving" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.EnterFullScreenWhenReceiving"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ExitFullScreenWhenReceiving" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_VideoPlayer_V2_C_UAID_94DE80055EB2D79D01_2040671806.ExitFullScreenWhenReceiving"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         ExitFullScreenWhenReceiving="ExitFullScreenWhenReceiving"
+         EnterFullScreenWhenReceiving="EnterFullScreenWhenReceiving"
+         EndExternalVideoControl="EndExternalVideoControl"
+         UpdateStreamToExternalVideoData="UpdateStreamToExternalVideoData"
+         HidePIPWhenReceivingFrom="HidePIPWhenReceivingFrom"
+         DisableVisibilityWhenReceivingFrom="DisableVisibilityWhenReceivingFrom"
+         EnableVisibilityWhenReceivingFrom="EnableVisibilityWhenReceivingFrom"
+         CreativePreviewOnlyMesh="CreativePreviewOnlyMesh"
+         MakePIPDefaultSizeWhenReceivingFrom="MakePIPDefaultSizeWhenReceivingFrom"
+         MakePIPFullScreenWhenReceivingFrom="MakePIPFullScreenWhenReceivingFrom"
+         EnableCollisionWhenReceivingFrom="EnableCollisionWhenReceivingFrom"
+         DisableCollisionWhenReceivingFrom="DisableCollisionWhenReceivingFrom"
+         SeekStreamWhenReceivingFrom="SeekStreamWhenReceivingFrom"
+         RestartStreamWhenReceivingFrom="RestartStreamWhenReceivingFrom"
+         TransmitOnStreamStarted="TransmitOnStreamStarted"
+         ReleaseControlWhenReceivingFrom="ReleaseControlWhenReceivingFrom"
+         StopStreamWhenReceivingFrom="StopStreamWhenReceivingFrom"
+         ScreenMesh="ScreenMesh"
+         Creative_UseRestriction_Component="Creative_UseRestriction_Component"
+         ChangeStreamWhenReceivingFrom="ChangeStreamWhenReceivingFrom"
+         DisableWhenReceivingFrom="DisableWhenReceivingFrom"
+         EnableWhenReceivingFrom="EnableWhenReceivingFrom"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=36E0D24643E771D8A666B68CC0BC2433
+         PlaysetPackagePathName="/CRD_LlamatronV2/SetupAssets/PID_Device_VideoPlayer"
+         LabelOverride="Video Player"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Video Player"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

@@ -1,0 +1,209 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C Name=Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798 Archetype=/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Default__Device_CameraFocus_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Default__Device_CameraFocus_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Default__Device_CameraFocus_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Default__Device_CameraFocus_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="FocusOnMessageReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:FocusOnMessageReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.FocusOnMessageReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="RemoveFocusOnMessageReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:RemoveFocusOnMessageReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.RemoveFocusOnMessageReceived"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C Name="Creative_UseRestriction_Component" Archetype=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:Creative_UseRestriction_Component_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.Creative_UseRestriction_Component"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="FocusAllOnMessageReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:FocusAllOnMessageReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.FocusAllOnMessageReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="RemoveAllFocusOnMessageReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:RemoveAllFocusOnMessageReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.RemoveAllFocusOnMessageReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableOnMessageReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:EnableOnMessageReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.EnableOnMessageReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableOnMessageReceived" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:DisableOnMessageReceived_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.DisableOnMessageReceived"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.CreativeEditOnlyMeshComponent Name="CreativeEditOnlyMesh" Archetype=/Script/FortniteGame.CreativeEditOnlyMeshComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:CreativeEditOnlyMesh_GEN_VARIABLE' ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.CreativeEditOnlyMesh"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="SendMessageOnFocus" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:SendMessageOnFocus_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.SendMessageOnFocus"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="SendMessageOnFocusDrop" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:SendMessageOnFocusDrop_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.SendMessageOnFocusDrop"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.CreativeEditOnlyMeshComponent Name="CreativeEditOnlyRangeFinderMesh" Archetype=/Script/FortniteGame.CreativeEditOnlyMeshComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:CreativeEditOnlyRangeFinderMesh_GEN_VARIABLE' ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.CreativeEditOnlyRangeFinderMesh"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="Interaction Blocker - This is specifically for toolbar copying" Archetype=/Script/Engine.StaticMeshComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:Interaction Blocker - This is specifically for toolbar copying_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.Interaction Blocker - This is specifically for toolbar copying"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.CreativeEditOnlyMeshComponent Name="CreativeEditOnlyAttachSphereSM" Archetype=/Script/FortniteGame.CreativeEditOnlyMeshComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:CreativeEditOnlyAttachSphereSM_GEN_VARIABLE' ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.CreativeEditOnlyAttachSphereSM"'
+         End Object
+         Begin Object Class=/Script/Engine.SphereComponent Name="SphereCollision" Archetype=/Script/Engine.SphereComponent'/CRD_FocusDevice/SetupAssets/Device_CameraFocus.Device_CameraFocus_C:SphereCollision_GEN_VARIABLE' ExportPath=/Script/Engine.SphereComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.SphereCollision"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.StaticMeshComponent0"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=QueryAndPhysics)
+            OnComponentPhysicsStateChanged=(Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.OnPhysicsStateChanged)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="bAttachToClosestObject",PropertyData="False"),(PropertyName="bHasFocusPrompt",PropertyData="True"),(PropertyName="bHasUnFocusPrompt",PropertyData="True"),(PropertyName="bOverrideFocusDuration",PropertyData="False"),(PropertyName="bOverrideMaximumFocusDistance",PropertyData="False"),(PropertyName="bRestrictMovementOnFocus",PropertyData="False"),(PropertyName="bRevertRotationAfterFocus",PropertyData="False"),(PropertyName="Focus FOV Level",PropertyData="0.000000"),(PropertyName="FocusDuration",PropertyData="3.000000"),(PropertyName="FocusInterpolationSpeed",PropertyData="5.000000"),(PropertyName="FocusPrompt"),(PropertyName="LabelOverride",PropertyData="Camera Focus Device"),(PropertyName="Maximum Focus Distance",PropertyData="1.000000"),(PropertyName="SelectedClass",PropertyData="(ClassType=Any,ClassSlot=1)"),(PropertyName="SelectedTeam",PropertyData="(TeamType=Any,TeamIndex=1)"),(PropertyName="UnfocusPrompt")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FocusOnMessageReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.FocusOnMessageReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="RemoveFocusOnMessageReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.RemoveFocusOnMessageReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Creative_UseRestriction_Component" ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.Creative_UseRestriction_Component"'
+            EnabledComponent=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"TRASH_Creative_Enabled_Component_C_187"'
+            MinigameLogic=/Script/FortniteGame.FortMinigameProgressComponent'"TRASH_FortMinigameProgressComponent_188"'
+            Valid Class List=(0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,255)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FocusAllOnMessageReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.FocusAllOnMessageReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="RemoveAllFocusOnMessageReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.RemoveAllFocusOnMessageReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableOnMessageReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.EnableOnMessageReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableOnMessageReceived" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.DisableOnMessageReceived"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CreativeEditOnlyMesh" ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.CreativeEditOnlyMesh"'
+            StaticMesh=/Script/Engine.StaticMesh'"/Game/Creative/Devices/Generic/Meshes/CP_Device_Generic_Icon_01.CP_Device_Generic_Icon_01"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceConstant'"/Game/Creative/Devices/Focus/Materials/MI_CP_Device_Focus_Placed_01.MI_CP_Device_Focus_Placed_01"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            bAbsoluteRotation=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SendMessageOnFocus" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.SendMessageOnFocus"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SendMessageOnFocusDrop" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.SendMessageOnFocusDrop"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CreativeEditOnlyRangeFinderMesh" ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.CreativeEditOnlyRangeFinderMesh"'
+            StaticMesh=/Script/Engine.StaticMesh'"/Engine/BasicShapes/Sphere.Sphere"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceConstant'"/Game/Items/Traps/Materials/M_Barrier_BoundsTranslucent_Blue_Inst.M_Barrier_BoundsTranslucent_Blue_Inst"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            RelativeScale3D=(X=0.000000,Y=0.000000,Z=0.000000)
+            bAbsoluteRotation=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Interaction Blocker - This is specifically for toolbar copying" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.Interaction Blocker - This is specifically for toolbar copying"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CreativeEditOnlyAttachSphereSM" ExportPath=/Script/FortniteGame.CreativeEditOnlyMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.CreativeEditOnlyAttachSphereSM"'
+            StaticMesh=/Script/Engine.StaticMesh'"/Game/Creative/Devices/DeviceZone_Base/Meshes/SM_VolumeSphere.SM_VolumeSphere"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceConstant'"/Game/Creative/Devices/PropManipulation/Materials/MI_CP_VolumeBox_PropManipulation_Hologram.MI_CP_VolumeBox_PropManipulation_Hologram"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=NoCollision,MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            bAbsoluteRotation=True
+            bVisible=False
+            bHiddenInGame=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SphereCollision" ExportPath=/Script/Engine.SphereComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_CameraFocus_C_UAID_94DE80055EB2D79D01_1825812798.SphereCollision"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         SphereCollision="SphereCollision"
+         CreativeEditOnlyAttachSphereSM="CreativeEditOnlyAttachSphereSM"
+         Interaction Blocker - This is specifically for toolbar copying="Interaction Blocker - This is specifically for toolbar copying"
+         CreativeEditOnlyRangeFinderMesh="CreativeEditOnlyRangeFinderMesh"
+         SendMessageOnFocusDrop="SendMessageOnFocusDrop"
+         SendMessageOnFocus="SendMessageOnFocus"
+         CreativeEditOnlyMesh="CreativeEditOnlyMesh"
+         DisableOnMessageReceived="DisableOnMessageReceived"
+         EnableOnMessageReceived="EnableOnMessageReceived"
+         RemoveAllFocusOnMessageReceived="RemoveAllFocusOnMessageReceived"
+         FocusAllOnMessageReceived="FocusAllOnMessageReceived"
+         Creative_UseRestriction_Component="Creative_UseRestriction_Component"
+         RemoveFocusOnMessageReceived="RemoveFocusOnMessageReceived"
+         FocusOnMessageReceived="FocusOnMessageReceived"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=81769C574A8C4446DEDE27859A5B0908
+         PlaysetPackagePathName="/CRD_FocusDevice/SetupAssets/ID/PID_CP_Device_CameraFocus"
+         LabelOverride="Camera Focus Device"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Camera Focus Device"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

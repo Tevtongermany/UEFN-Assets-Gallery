@@ -1,0 +1,233 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C Name=Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990 Archetype=/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Default__Device_SharedSaveData_V2_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Default__Device_SharedSaveData_V2_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Default__Device_SharedSaveData_V2_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Default__Device_SharedSaveData_V2_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C Name="PersistenceData_GlobalSaveData_C_0" ExportPath=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.PersistenceData_GlobalSaveData_C_0"'
+         End Object
+         Begin Object Class=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C Name="PersistenceData_GlobalSaveData_C_1" ExportPath=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.PersistenceData_GlobalSaveData_C_1"'
+         End Object
+         Begin Object Class=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C Name="PersistenceData_GlobalSaveData_C_2" ExportPath=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.PersistenceData_GlobalSaveData_C_2"'
+         End Object
+         Begin Object Class=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C Name="PersistenceData_GlobalSaveData_C_3" ExportPath=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.PersistenceData_GlobalSaveData_C_3"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="EnableWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:EnableWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.EnableWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="DisableWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:DisableWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.DisableWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="SetStateToOnWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:SetStateToOnWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.SetStateToOnWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="SetStateToOffWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:SetStateToOffWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.SetStateToOffWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/Engine.AudioComponent Name="AudioComponent" Archetype=/Script/Engine.AudioComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:AudioComponent_GEN_VARIABLE' ExportPath=/Script/Engine.AudioComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.AudioComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C Name="Creative_UseRestriction_Component" Archetype=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:Creative_UseRestriction_Component_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.Creative_UseRestriction_Component"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="VisualizationSphere" Archetype=/Script/Engine.StaticMeshComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:VisualizationSphere_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.VisualizationSphere"'
+         End Object
+         Begin Object Class=/Script/Engine.SphereComponent Name="SphereCollision" Archetype=/Script/Engine.SphereComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:SphereCollision_GEN_VARIABLE' ExportPath=/Script/Engine.SphereComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.SphereCollision"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortCreativePersistenceComponentBase Name="FortCreativePersistenceComponentBase" Archetype=/Script/FortniteGame.FortCreativePersistenceComponentBase'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:FortCreativePersistenceComponentBase_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortCreativePersistenceComponentBase'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.FortCreativePersistenceComponentBase"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="LoadStateWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:LoadStateWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.LoadStateWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="SaveStateWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:SaveStateWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.SaveStateWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="IfOnWhenCheckedTransmitOn" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:IfOnWhenCheckedTransmitOn_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.IfOnWhenCheckedTransmitOn"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="IfOffWhenCheckedTransmitOn" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:IfOffWhenCheckedTransmitOn_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.IfOffWhenCheckedTransmitOn"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="OnStateSaveTransmitOn" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:OnStateSaveTransmitOn_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.OnStateSaveTransmitOn"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="CheckStateWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:CheckStateWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.CheckStateWhenReceivingFrom"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.CreativeProxyManagerComponent Name="CreativeProxyManager" Archetype=/Script/FortniteGame.CreativeProxyManagerComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:CreativeProxyManager_GEN_VARIABLE' ExportPath=/Script/FortniteGame.CreativeProxyManagerComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.CreativeProxyManager"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="ToggleStateWhenReceivingFrom" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_GlobalSaveData/Device_SharedSaveData_V2.Device_SharedSaveData_V2_C:ToggleStateWhenReceivingFrom_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.ToggleStateWhenReceivingFrom"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.StaticMeshComponent0"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceDynamic'"/Engine/Transient.MaterialInstanceDynamic_32"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            OnComponentPhysicsStateChanged=(Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.OnPhysicsStateChanged)
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="PersistenceData_GlobalSaveData_C_0" ExportPath=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.PersistenceData_GlobalSaveData_C_0"'
+         End Object
+         Begin Object Name="PersistenceData_GlobalSaveData_C_1" ExportPath=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.PersistenceData_GlobalSaveData_C_1"'
+         End Object
+         Begin Object Name="PersistenceData_GlobalSaveData_C_2" ExportPath=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.PersistenceData_GlobalSaveData_C_2"'
+         End Object
+         Begin Object Name="PersistenceData_GlobalSaveData_C_3" ExportPath=/CRD_GlobalSaveData/Structs/PersistenceData_GlobalSaveData.PersistenceData_GlobalSaveData_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.PersistenceData_GlobalSaveData_C_3"'
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="AllowChecksWhenDisabled",PropertyData="False"),(PropertyName="Auto-Load State at Game Start",PropertyData="False"),(PropertyName="Auto-SaveState",PropertyData="False"),(PropertyName="Check State at Game Start",PropertyData="True"),(PropertyName="EnabledAtGameStart",PropertyData="True"),(PropertyName="InitialState",PropertyData="False"),(PropertyName="LabelOverride",PropertyData="Shared Save Data Device"),(PropertyName="LinkName"),(PropertyName="UsePersistence",PropertyData="False"),(PropertyName="VisibleDuringGame",PropertyData="True")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.EnabledComponent"'
+            EnabledDuringPlayMode=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnableWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.EnableWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DisableWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.DisableWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SetStateToOnWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.SetStateToOnWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SetStateToOffWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.SetStateToOffWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="AudioComponent" ExportPath=/Script/Engine.AudioComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.AudioComponent"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Creative_UseRestriction_Component" ExportPath=/Game/Creative/Devices/Common/Components/Creative_UseRestriction_Component.Creative_UseRestriction_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.Creative_UseRestriction_Component"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisualizationSphere" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.VisualizationSphere"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SphereCollision" ExportPath=/Script/Engine.SphereComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.SphereCollision"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortCreativePersistenceComponentBase" ExportPath=/Script/FortniteGame.FortCreativePersistenceComponentBase'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.FortCreativePersistenceComponentBase"'
+            bUniqueForOwner=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="LoadStateWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.LoadStateWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SaveStateWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.SaveStateWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="IfOnWhenCheckedTransmitOn" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.IfOnWhenCheckedTransmitOn"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="IfOffWhenCheckedTransmitOn" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.IfOffWhenCheckedTransmitOn"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="OnStateSaveTransmitOn" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.OnStateSaveTransmitOn"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CheckStateWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.CheckStateWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="CreativeProxyManager" ExportPath=/Script/FortniteGame.CreativeProxyManagerComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.CreativeProxyManager"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="ToggleStateWhenReceivingFrom" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Device_SharedSaveData_V2_C_UAID_94DE80055EB2D89D01_1105659990.ToggleStateWhenReceivingFrom"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         ToggleStateWhenReceivingFrom="ToggleStateWhenReceivingFrom"
+         CreativeProxyManager="CreativeProxyManager"
+         CheckStateWhenReceivingFrom="CheckStateWhenReceivingFrom"
+         OnStateSaveTransmitOn="OnStateSaveTransmitOn"
+         IfOffWhenCheckedTransmitOn="IfOffWhenCheckedTransmitOn"
+         IfOnWhenCheckedTransmitOn="IfOnWhenCheckedTransmitOn"
+         SaveStateWhenReceivingFrom="SaveStateWhenReceivingFrom"
+         LoadStateWhenReceivingFrom="LoadStateWhenReceivingFrom"
+         FortCreativePersistenceComponentBase="FortCreativePersistenceComponentBase"
+         SphereCollision="SphereCollision"
+         VisualizationSphere="VisualizationSphere"
+         Creative_UseRestriction_Component="Creative_UseRestriction_Component"
+         AudioComponent="AudioComponent"
+         SetStateToOffWhenReceivingFrom="SetStateToOffWhenReceivingFrom"
+         SetStateToOnWhenReceivingFrom="SetStateToOnWhenReceivingFrom"
+         DisableWhenReceivingFrom="DisableWhenReceivingFrom"
+         EnableWhenReceivingFrom="EnableWhenReceivingFrom"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=3A41A2664F5468E4555BA09ED4EDBC89
+         PlaysetPackagePathName="/CRD_GlobalSaveData/SetupAssets/PID_Device_SharedSaveData_V2"
+         LabelOverride="Shared Save Data Device"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Shared Save Data Device"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

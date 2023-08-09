@@ -1,0 +1,124 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_Clapboard/Creative_Device_StreamClapBoard.Creative_Device_StreamClapBoard_C Name=Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792 Archetype=/CRD_Clapboard/Creative_Device_StreamClapBoard.Creative_Device_StreamClapBoard_C'/CRD_Clapboard/Creative_Device_StreamClapBoard.Default__Creative_Device_StreamClapBoard_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_Clapboard/Creative_Device_StreamClapBoard.Default__Creative_Device_StreamClapBoard_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_Clapboard/Creative_Device_StreamClapBoard.Default__Creative_Device_StreamClapBoard_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_Clapboard/Creative_Device_StreamClapBoard.Default__Creative_Device_StreamClapBoard_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_Clapboard/Creative_Device_StreamClapBoard.Creative_Device_StreamClapBoard_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/CRD_Clapboard/Creative_Device_StreamClapBoard.Creative_Device_StreamClapBoard_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayTriggerMessageComponent Name="TransmitWhenTimeReached" Archetype=/Script/FortniteGame.FortGameplayTriggerMessageComponent'/CRD_Clapboard/Creative_Device_StreamClapBoard.Creative_Device_StreamClapBoard_C:TransmitWhenTimeReached_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.TransmitWhenTimeReached"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="Sphere" Archetype=/Script/Engine.StaticMeshComponent'/CRD_Clapboard/Creative_Device_StreamClapBoard.Creative_Device_StreamClapBoard_C:Sphere_GEN_VARIABLE' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.Sphere"'
+         End Object
+         Begin Object Class=/Script/Engine.TextRenderComponent Name="TextRender" Archetype=/Script/Engine.TextRenderComponent'/CRD_Clapboard/Creative_Device_StreamClapBoard.Creative_Device_StreamClapBoard_C:TextRender_GEN_VARIABLE' ExportPath=/Script/Engine.TextRenderComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.TextRender"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="OnReceivedDisable" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Clapboard/Creative_Device_StreamClapBoard.Creative_Device_StreamClapBoard_C:OnReceivedDisable_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.OnReceivedDisable"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortGameplayReceiverMessageComponent Name="OnReceivedEnable" Archetype=/Script/FortniteGame.FortGameplayReceiverMessageComponent'/CRD_Clapboard/Creative_Device_StreamClapBoard.Creative_Device_StreamClapBoard_C:OnReceivedEnable_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.OnReceivedEnable"'
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.StaticMeshComponent0"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceDynamic'"/Engine/Transient.MaterialInstanceDynamic_35"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=NoCollision,CollisionProfileName="Custom",MaxAngularVelocity=3599.999756)
+            OnComponentPhysicsStateChanged=(Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.OnPhysicsStateChanged)
+            RelativeRotation=(Pitch=-0.000000,Yaw=-106.952850,Roll=0.000000)
+            bHiddenInGame=True
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="CountUp",PropertyData="False"),(PropertyName="EnabledIndex",PropertyData="0"),(PropertyName="LabelOverride",PropertyData="Clapboard"),(PropertyName="StreamUID"),(PropertyName="TimeMilliseconds",PropertyData="0.000000"),(PropertyName="TimeMinutes",PropertyData="0.000000"),(PropertyName="TimeSeconds",PropertyData="0.000000")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            VisibleSceneComponents(1)=/Script/Engine.StaticMeshComponent'"TRASH_StaticMeshComponent_91"'
+            VisibleSceneComponents(2)=/Script/Engine.TextRenderComponent'"TRASH_TextRenderComponent_90"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="TransmitWhenTimeReached" ExportPath=/Script/FortniteGame.FortGameplayTriggerMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.TransmitWhenTimeReached"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Sphere" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.Sphere"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(CollisionEnabled=NoCollision,CollisionProfileName="Custom",MaxAngularVelocity=3599.999756)
+            AttachParent="StaticMeshComponent0"
+            bVisible=False
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="TextRender" ExportPath=/Script/Engine.TextRenderComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.TextRender"'
+            TextRenderColor=(B=247,G=255,R=235,A=255)
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            bHiddenInGame=True
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="OnReceivedDisable" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.OnReceivedDisable"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="OnReceivedEnable" ExportPath=/Script/FortniteGame.FortGameplayReceiverMessageComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.Creative_Device_StreamClapBoard_C_UAID_94DE80055EB2D79D01_1468895792.OnReceivedEnable"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         OnReceivedEnable="OnReceivedEnable"
+         OnReceivedDisable="OnReceivedDisable"
+         TextRender="TextRender"
+         Sphere="Sphere"
+         TransmitWhenTimeReached="TransmitWhenTimeReached"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=3C823205449A24204A9F10AE319E7892
+         PlaysetPackagePathName="/CRD_Clapboard/SetupAssets/PID_CP_Devices_Clapboard"
+         LabelOverride="Clapboard"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Clapboard"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map

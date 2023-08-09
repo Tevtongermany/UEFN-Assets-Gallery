@@ -1,0 +1,262 @@
+Begin Map
+   Begin Level
+      Begin Actor Class=/CRD_StageLight/BP_StageLight.BP_StageLight_C Name=BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000 Archetype=/CRD_StageLight/BP_StageLight.BP_StageLight_C'/CRD_StageLight/BP_StageLight.Default__BP_StageLight_C'
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=/Script/Engine.StaticMeshComponent'/CRD_StageLight/BP_StageLight.Default__BP_StageLight_C:StaticMeshComponent0' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.StaticMeshComponent0"'
+         End Object
+         Begin Object Class=/Script/Engine.BoxComponent Name="BoundingBoxComponent" Archetype=/Script/Engine.BoxComponent'/CRD_StageLight/BP_StageLight.Default__BP_StageLight_C:BoundingBoxComponent' ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.BoundingBoxComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.StaticMeshComponent Name="EditorOnlyStaticMeshComponent" Archetype=/Script/Engine.StaticMeshComponent'/CRD_StageLight/BP_StageLight.Default__BP_StageLight_C:EditorOnlyStaticMeshComponent' ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.EditorOnlyStaticMeshComponent"'
+         End Object
+         Begin Object Class=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C Name="ToyOptionsComponent" Archetype=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'/CRD_StageLight/BP_StageLight.BP_StageLight_C:ToyOptionsComponent_GEN_VARIABLE' ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.ToyOptionsComponent"'
+         End Object
+         Begin Object Class=/Script/FortniteGame.FortMinigameProgressComponent Name="FortMinigameProgress" Archetype=/Script/FortniteGame.FortMinigameProgressComponent'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:FortMinigameProgress_GEN_VARIABLE' ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.FortMinigameProgress"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C Name="EnabledComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:EnabledComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.EnabledComponent"'
+         End Object
+         Begin Object Class=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C Name="VisibleInGameComponent" Archetype=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'/Game/Creative/Devices/Common/Creative_Device_Prop_Parent.Creative_Device_Prop_Parent_C:VisibleInGameComponent_GEN_VARIABLE' ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.VisibleInGameComponent"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="DefaultSceneRoot1" Archetype=/Script/Engine.SceneComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:DefaultSceneRoot1_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.DefaultSceneRoot1"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="Scene1" Archetype=/Script/Engine.SceneComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Scene1_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Scene1"'
+         End Object
+         Begin Object Class=/Script/Engine.DecalComponent Name="Decal1" Archetype=/Script/Engine.DecalComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Decal1_GEN_VARIABLE' ExportPath=/Script/Engine.DecalComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Decal1"'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="SpotLight1" Archetype=/Script/Engine.SpotLightComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:SpotLight1_GEN_VARIABLE' ExportPath=/Script/Engine.SpotLightComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.SpotLight1"'
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="Scene" Archetype=/Script/Engine.SceneComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Scene_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Scene"'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="SpotLight" Archetype=/Script/Engine.SpotLightComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:SpotLight_GEN_VARIABLE' ExportPath=/Script/Engine.SpotLightComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.SpotLight"'
+         End Object
+         Begin Object Class=/Script/Engine.DecalComponent Name="Decal" Archetype=/Script/Engine.DecalComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Decal_GEN_VARIABLE' ExportPath=/Script/Engine.DecalComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Decal"'
+         End Object
+         Begin Object Class=/Script/Niagara.NiagaraComponent Name="Niagara" Archetype=/Script/Niagara.NiagaraComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Niagara_GEN_VARIABLE' ExportPath=/Script/Niagara.NiagaraComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara"'
+            Begin Object Class=/Script/Niagara.NiagaraDataInterfaceColorCurve Name="NiagaraDataInterfaceColorCurve_2" Archetype=/Script/Niagara.NiagaraDataInterfaceColorCurve'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Niagara_GEN_VARIABLE.NiagaraDataInterfaceColorCurve_2' ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara.NiagaraDataInterfaceColorCurve_2"'
+            End Object
+            Begin Object Class=/Script/Niagara.NiagaraDataInterfaceColorCurve Name="NiagaraDataInterfaceColorCurve_0" Archetype=/Script/Niagara.NiagaraDataInterfaceColorCurve'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Niagara_GEN_VARIABLE.NiagaraDataInterfaceColorCurve_0' ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara.NiagaraDataInterfaceColorCurve_0"'
+            End Object
+         End Object
+         Begin Object Class=/Script/Engine.SceneComponent Name="Scene2" Archetype=/Script/Engine.SceneComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Scene2_GEN_VARIABLE' ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Scene2"'
+         End Object
+         Begin Object Class=/Script/Niagara.NiagaraComponent Name="Niagara2" Archetype=/Script/Niagara.NiagaraComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Niagara2_GEN_VARIABLE' ExportPath=/Script/Niagara.NiagaraComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara2"'
+            Begin Object Class=/Script/Niagara.NiagaraDataInterfaceColorCurve Name="NiagaraDataInterfaceColorCurve_2" Archetype=/Script/Niagara.NiagaraDataInterfaceColorCurve'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Niagara2_GEN_VARIABLE.NiagaraDataInterfaceColorCurve_2' ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara2.NiagaraDataInterfaceColorCurve_2"'
+            End Object
+            Begin Object Class=/Script/Niagara.NiagaraDataInterfaceColorCurve Name="NiagaraDataInterfaceColorCurve_0" Archetype=/Script/Niagara.NiagaraDataInterfaceColorCurve'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Niagara2_GEN_VARIABLE.NiagaraDataInterfaceColorCurve_0' ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara2.NiagaraDataInterfaceColorCurve_0"'
+            End Object
+         End Object
+         Begin Object Class=/Script/Engine.DecalComponent Name="Decal2" Archetype=/Script/Engine.DecalComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Decal2_GEN_VARIABLE' ExportPath=/Script/Engine.DecalComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Decal2"'
+         End Object
+         Begin Object Class=/Script/Engine.SpotLightComponent Name="SpotLight2" Archetype=/Script/Engine.SpotLightComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:SpotLight2_GEN_VARIABLE' ExportPath=/Script/Engine.SpotLightComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.SpotLight2"'
+         End Object
+         Begin Object Class=/Script/Niagara.NiagaraComponent Name="Niagara1" Archetype=/Script/Niagara.NiagaraComponent'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Niagara1_GEN_VARIABLE' ExportPath=/Script/Niagara.NiagaraComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara1"'
+            Begin Object Class=/Script/Niagara.NiagaraDataInterfaceColorCurve Name="NiagaraDataInterfaceColorCurve_2" Archetype=/Script/Niagara.NiagaraDataInterfaceColorCurve'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Niagara1_GEN_VARIABLE.NiagaraDataInterfaceColorCurve_2' ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara1.NiagaraDataInterfaceColorCurve_2"'
+            End Object
+            Begin Object Class=/Script/Niagara.NiagaraDataInterfaceColorCurve Name="NiagaraDataInterfaceColorCurve_0" Archetype=/Script/Niagara.NiagaraDataInterfaceColorCurve'/CRD_StageLight/BP_StageLight.BP_StageLight_C:Niagara1_GEN_VARIABLE.NiagaraDataInterfaceColorCurve_0' ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara1.NiagaraDataInterfaceColorCurve_0"'
+            End Object
+         End Object
+         Begin Object Name="StaticMeshComponent0" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.StaticMeshComponent0"'
+            OverrideMaterials(0)=/Script/Engine.MaterialInstanceDynamic'"/Engine/Transient.MaterialInstanceDynamic_35"'
+            CachedMaxDrawDistance=21400.000000
+            BodyInstance=(MaxAngularVelocity=3599.999756)
+            OnComponentPhysicsStateChanged=(BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.OnPhysicsStateChanged)
+            RelativeRotation=(Pitch=0.000000,Yaw=276.396369,Roll=0.000000)
+            Mobility=Movable
+         End Object
+         Begin Object Name="BoundingBoxComponent" ExportPath=/Script/Engine.BoxComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.BoundingBoxComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="EditorOnlyStaticMeshComponent" ExportPath=/Script/Engine.StaticMeshComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.EditorOnlyStaticMeshComponent"'
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+         End Object
+         Begin Object Name="ToyOptionsComponent" ExportPath=/Game/Items/Traps/Blueprints/Toys/ToyOptionsComponent.ToyOptionsComponent_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.ToyOptionsComponent"'
+            PlayerOptionData=(PropertyOverrides=((PropertyName="LabelOverride")))
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="FortMinigameProgress" ExportPath=/Script/FortniteGame.FortMinigameProgressComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.FortMinigameProgress"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="EnabledComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_Enabled_Component.Creative_Enabled_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.EnabledComponent"'
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="VisibleInGameComponent" ExportPath=/Game/Creative/Devices/Common/Components/Creative_VisibleInGame_Component.Creative_VisibleInGame_Component_C'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.VisibleInGameComponent"'
+            VisibleSceneComponents(0)="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="DefaultSceneRoot1" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.DefaultSceneRoot1"'
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Scene1" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Scene1"'
+            AttachParent="DefaultSceneRoot1"
+            RelativeLocation=(X=750.000000,Y=-433.000000,Z=0.000000)
+            RelativeRotation=(Pitch=1.000000,Yaw=28.609277,Roll=-23.577893)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Decal1" ExportPath=/Script/Engine.DecalComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Decal1"'
+            AttachParent="Scene1"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SpotLight1" ExportPath=/Script/Engine.SpotLightComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.SpotLight1"'
+            MaxDrawDistance=21400.000000
+            MaxDistanceFadeRange=2048.000000
+            Intensity=1400.000000
+            LightColor=(B=0,G=149,R=218,A=255)
+            VolumetricScatteringIntensity=0.000000
+            AttachParent="Scene1"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Scene" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Scene"'
+            AttachParent="DefaultSceneRoot1"
+            RelativeLocation=(X=0.000000,Y=866.000000,Z=0.000000)
+            RelativeRotation=(Pitch=1.000000,Yaw=-37.117182,Roll=27.073758)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SpotLight" ExportPath=/Script/Engine.SpotLightComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.SpotLight"'
+            MaxDrawDistance=21400.000000
+            MaxDistanceFadeRange=2048.000000
+            Intensity=1400.000000
+            LightColor=(B=0,G=149,R=218,A=255)
+            VolumetricScatteringIntensity=0.000000
+            AttachParent="Scene"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Decal" ExportPath=/Script/Engine.DecalComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Decal"'
+            AttachParent="Scene"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Niagara" ExportPath=/Script/Niagara.NiagaraComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara"'
+            Begin Object Name="NiagaraDataInterfaceColorCurve_2" ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara.NiagaraDataInterfaceColorCurve_2"'
+            End Object
+            Begin Object Name="NiagaraDataInterfaceColorCurve_0" ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara.NiagaraDataInterfaceColorCurve_0"'
+               RedCurve=(Keys=((Value=1.000000),(Time=0.333000),(Time=0.667000),(Time=1.000000,Value=1.000000)))
+               GreenCurve=(Keys=((),(Time=0.333000,Value=1.000000),(Time=0.667000),(Time=1.000000)))
+               BlueCurve=(Keys=((),(Time=0.333000),(Time=0.667000,Value=1.000000),(Time=1.000000)))
+               AlphaCurve=(Keys=((Value=1.000000),(Time=1.000000,Value=1.000000)))
+               MergeId=2CBC9EA3423A72FCE2E2009E55B2EC7F
+            End Object
+            OverrideParameters=(ParameterData=(0,0,128,63,0,0,0,0,0,0,0,65,0,96,234,69,0,0,16,66,0,0,128,63,0,0,128,63,0,0,128,63,0,0,128,63),DataInterfaces=("NiagaraDataInterfaceColorCurve_0"),DebugName="NiagaraComponent /Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara")
+            InstanceParameterOverrides=(((Name="User.ConeLength",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,96,234,69),CurrentMode=Bytes)),((Name="User.ConeAngle",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,0,0,65),CurrentMode=Bytes)),((Name="User.ConeStartRadius",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,0,16,66),CurrentMode=Bytes)),((Name="User.Alpha",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,0,128,63),CurrentMode=Bytes)))
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="Scene"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Scene2" ExportPath=/Script/Engine.SceneComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Scene2"'
+            AttachParent="DefaultSceneRoot1"
+            RelativeLocation=(X=-750.000000,Y=-433.000000,Z=0.000000)
+            RelativeRotation=(Pitch=1.000000,Yaw=-93.008862,Roll=-28.808406)
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Niagara2" ExportPath=/Script/Niagara.NiagaraComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara2"'
+            Begin Object Name="NiagaraDataInterfaceColorCurve_2" ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara2.NiagaraDataInterfaceColorCurve_2"'
+            End Object
+            Begin Object Name="NiagaraDataInterfaceColorCurve_0" ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara2.NiagaraDataInterfaceColorCurve_0"'
+               RedCurve=(Keys=((Value=1.000000),(Time=0.333000),(Time=0.667000),(Time=1.000000,Value=1.000000)))
+               GreenCurve=(Keys=((),(Time=0.333000,Value=1.000000),(Time=0.667000),(Time=1.000000)))
+               BlueCurve=(Keys=((),(Time=0.333000),(Time=0.667000,Value=1.000000),(Time=1.000000)))
+               AlphaCurve=(Keys=((Value=1.000000),(Time=1.000000,Value=1.000000)))
+               MergeId=DEC88E404B09B38D01B80AAF5275BD3B
+            End Object
+            OverrideParameters=(ParameterData=(0,0,128,63,0,0,0,0,0,0,0,65,0,96,234,69,0,0,16,66,0,0,128,63,0,0,128,63,0,0,128,63,0,0,128,63),DataInterfaces=("NiagaraDataInterfaceColorCurve_0"),DebugName="NiagaraComponent /Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara2")
+            InstanceParameterOverrides=(((Name="User.ConeLength",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,96,234,69),CurrentMode=Bytes)),((Name="User.ConeAngle",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,0,0,65),CurrentMode=Bytes)),((Name="User.ConeStartRadius",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,0,16,66),CurrentMode=Bytes)),((Name="User.Alpha",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,0,128,63),CurrentMode=Bytes)))
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="Scene2"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Decal2" ExportPath=/Script/Engine.DecalComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Decal2"'
+            AttachParent="Scene2"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="SpotLight2" ExportPath=/Script/Engine.SpotLightComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.SpotLight2"'
+            MaxDrawDistance=21400.000000
+            MaxDistanceFadeRange=2048.000000
+            Intensity=1400.000000
+            LightColor=(B=0,G=149,R=218,A=255)
+            VolumetricScatteringIntensity=0.000000
+            AttachParent="Scene2"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Begin Object Name="Niagara1" ExportPath=/Script/Niagara.NiagaraComponent'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara1"'
+            Begin Object Name="NiagaraDataInterfaceColorCurve_2" ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara1.NiagaraDataInterfaceColorCurve_2"'
+            End Object
+            Begin Object Name="NiagaraDataInterfaceColorCurve_0" ExportPath=/Script/Niagara.NiagaraDataInterfaceColorCurve'"/Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara1.NiagaraDataInterfaceColorCurve_0"'
+               RedCurve=(Keys=((Value=1.000000),(Time=0.333000),(Time=0.667000),(Time=1.000000,Value=1.000000)))
+               GreenCurve=(Keys=((),(Time=0.333000,Value=1.000000),(Time=0.667000),(Time=1.000000)))
+               BlueCurve=(Keys=((),(Time=0.333000),(Time=0.667000,Value=1.000000),(Time=1.000000)))
+               AlphaCurve=(Keys=((Value=1.000000),(Time=1.000000,Value=1.000000)))
+               MergeId=EB2E7528428A393DFFF26790E0A5EF20
+            End Object
+            OverrideParameters=(ParameterData=(0,0,128,63,0,0,0,0,0,0,0,65,0,96,234,69,0,0,16,66,0,0,128,63,0,0,128,63,0,0,128,63,0,0,128,63),DataInterfaces=("NiagaraDataInterfaceColorCurve_0"),DebugName="NiagaraComponent /Temp/Untitled_0.Untitled:PersistentLevel.BP_StageLight_C_UAID_94DE80055EB2D89D01_1535008000.Niagara1")
+            InstanceParameterOverrides=(((Name="User.ConeLength",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,96,234,69),CurrentMode=Bytes)),((Name="User.ConeAngle",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,0,0,65),CurrentMode=Bytes)),((Name="User.ConeStartRadius",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,0,16,66),CurrentMode=Bytes)),((Name="User.Alpha",TypeDefHandle=(RegisteredTypeIndex=88)), (Bytes=(0,0,128,63),CurrentMode=Bytes)))
+            CachedMaxDrawDistance=21400.000000
+            AttachParent="StaticMeshComponent0"
+            UCSSerializationIndex=0
+            bNetAddressable=True
+            CreationMethod=SimpleConstructionScript
+         End Object
+         Niagara1="Niagara1"
+         SpotLight2="SpotLight2"
+         Decal2="Decal2"
+         Niagara2="Niagara2"
+         Scene2="Scene2"
+         SpotLight1="SpotLight1"
+         Decal1="Decal1"
+         Niagara="Niagara"
+         Decal="Decal"
+         SpotLight="SpotLight"
+         Scene="Scene"
+         Scene1="Scene1"
+         DefaultSceneRoot1="DefaultSceneRoot1"
+         VisibleInGameComponent="VisibleInGameComponent"
+         EnabledComponent="EnabledComponent"
+         FortMinigameProgress="FortMinigameProgress"
+         ToyOptionsComponent="ToyOptionsComponent"
+         TimeOfDayControlledLightDataArray(0)=(LightComponent="SpotLight",Position=(X=0.000000,Y=866.000000,Z=0.000000),InitialIntensity=1400.000000)
+         TimeOfDayControlledLightDataArray(1)=(LightComponent="SpotLight1",Position=(X=750.000000,Y=-433.000000,Z=0.000000),InitialIntensity=1400.000000)
+         TimeOfDayControlledLightDataArray(2)=(LightComponent="SpotLight2",Position=(X=-750.000000,Y=-433.000000,Z=0.000000),InitialIntensity=1400.000000)
+         StaticMeshComponent="StaticMeshComponent0"
+         BoxComponent="BoundingBoxComponent"
+         EditorOnlyStaticMeshComponent="EditorOnlyStaticMeshComponent"
+         CullDistance=21400.000000
+         SavedActorGuid=0D3F4CA341E68A87625FF9B431BB6DF7
+         PlaysetPackagePathName="/CRD_StageLight/SetupAssets/PID_StageLight"
+         NetDormancy=DORM_DormantAll
+         RootComponent="StaticMeshComponent0"
+         ActorLabel="Stage Light"
+      End Actor
+   End Level
+Begin Surface
+End Surface
+End Map
